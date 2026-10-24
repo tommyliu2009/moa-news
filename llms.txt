@@ -1,0 +1,43 @@
+# 農業部新聞網
+
+> 本網站每日自動彙整農業部及所屬機關發布的新聞，聚焦農業政策與相關資訊。每則新聞均附原始出處連結與發布日期，提供讀者即時、完整的資訊來源。
+
+- 網址：https://web9.subsidyking.tw/
+- 主題：農業部新聞與農業政策
+- 更新：2026-10-24（每日自動更新）
+- 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
+- 維護：仁禾管理顧問
+
+## 最新內容
+- 2026-10-23 115 年薔琵颱風農業災情報告：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10320
+- 2026-10-23 奇萊美地親子食農趣：https://ezgo.ardswc.gov.tw/zh-tw/event/5487/
+- 2026-10-23 瑪陵農療森療體驗之旅：https://ezgo.ardswc.gov.tw/zh-tw/event/5490/
+- 2026-10-23 古法手工醬油體驗：https://ezgo.ardswc.gov.tw/zh-tw/event/5485/
+- 2026-10-23 客家聚落漫遊 × 自然植物敲染DIY：https://ezgo.ardswc.gov.tw/zh-tw/event/5488/
+- 2026-10-23 客庄蔗香文化與美味米食手作體驗：https://ezgo.ardswc.gov.tw/zh-tw/event/5478/
+- 2026-10-23 Taipingshan National Forest Recreation Area-據點開放狀態-鳩之澤溫泉：https://tps.forest.gov.tw/TPSWeb/wSite/ct?ctNode=269&mp=2&xItem=4240
+- 2026-10-23 薔琵颱風 土石流及大規模崩塌警戒區預報 第2報：https://taichung.ardswc.gov.tw/News/press_more?id=E6CE0AC7359D4B2A8422FC88BAE17C79
+- 2026-10-22 臺灣豬「菲」常受歡迎！ 菲律賓國際飯店主廚與餐飲採購業者力讚臺灣豬肉美味鮮甜：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10319
+- 2026-10-22 嘉義縣10月23日停班停課，阿里山林鐵祝山線停駛：https://recreation.forest.gov.tw/News/News?id=20261022009
+- 2026-10-22 農糧署持續關注薔琵颱風影響 加強蔬菜調配供應穩定民生需求：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34383
+- 2026-10-22 薔琵颱風來襲 嘉南地區漂流木處理工作已整備：https://chiayi.forest.gov.tw/news/0079489
+- 2026-10-22 嚴防薔琵颱風影響 農業部召開工作會議嚴陣以待：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10318
+- 2026-10-22 新聞最前線> 農業新聞> 農糧署持續關注薔琵颱風影響加強蔬菜調配供應穩定民生需求：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=453&article_id=34383
+- 2026-10-22 薔琵颱風 土石流及大規模崩塌警戒預報 第1報：https://taichung.ardswc.gov.tw/News/press_more?id=156ED5BE69274B1B89E7DCFFC2491D8E
+- 2026-10-22 薔琵強颱來襲 奧萬大、合歡山森林遊樂區及天池山莊10月23日起預警性休園：https://recreation.forest.gov.tw/News/News?id=20261022006
+- 2026-10-22 公告115年度「華南產物荔枝保險(溫度及降水量參數型)」為農業保險商品：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9944
+- 2026-10-22 暖東古道尋幽之旅：https://ezgo.ardswc.gov.tw/zh-tw/event/5489/
+- 2026-10-22 新聞最前線> 農業新聞> 爭取行政院支持農機與設施中程計畫農業部雙軌併進打造智慧韌性新農業：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=453&article_id=34382
+- 2026-10-22 薔琵接近，林保署屏東分署轄墾丁、雙流森林遊樂區、檜谷山屋及高雄屏東自然步道自10月22日13時起預警性關閉：https://recreation.forest.gov.tw/News/News?id=20261022005
+- 2026-10-22 因應中央氣象署發布薔琵陸上颱風警報，臺東分署轄管森林育樂場域自10月22日13時起實施封閉：https://recreation.forest.gov.tw/News/News?id=20261022004
+- 2026-10-22 薔琵颱風來襲，阿里山林鐵10月23日、24日本線停駛，支線配合阿里山國家森林遊樂區開放時間營運：https://recreation.forest.gov.tw/News/News?id=20261022007
+- 2026-10-22 爭取行政院支持農機與設施中程計畫 農業部雙軌併進打造智慧韌性新農業：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=307&article_id=34382
+- 2026-10-22 國家森林館走入國際旅展 探索臺灣霧林之美：https://www.forest.gov.tw/news/0079477
+- 2026-10-22 強颱薔琵來襲 花蓮分署轄內國家森林遊樂區、林田山林業文化園區等育樂場域自10月22日下午1時起暫停開放：https://recreation.forest.gov.tw/News/News?id=20261022003
+
+## 相關網站
+- 補助王：https://www.subsidyking.tw/
+- 獎補助資訊網：https://grantking.subsidyking.tw/
+- 中部新聞網：https://web12.subsidyking.tw/
+- 台灣政府補助新聞網：https://news.subsidyking.tw/
+- 仁禾管理顧問：https://web18.subsidyking.tw/
