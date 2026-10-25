@@ -4,11 +4,16 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-10-25（每日自動更新）
+- 更新：2026-10-26（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-26 行政院卓院長關心薔琵颱風造成宜蘭柑橘類果樹災損及公糧倉庫受損 要求農業部儘速辦理救助措施以協助農民復耕復建：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=453&article_id=34385
+- 2026-10-25 【 北大武山國家自然步道及檜谷山屋自10月26日起開放】：https://recreation.forest.gov.tw/News/News?id=20261025002
+- 2026-10-25 農業部召開專家會議盤點薔琵颱風農漁業災情初勘結果 將儘速主動公告救助地區與品項 協助農漁民復耕復建：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10321
+- 2026-10-25 太平山國家森林遊樂區入口網-最新消息-太平山10月26日(一)上午八時恢復開園：https://tps.forest.gov.tw/TPSWeb/wSite/ct?xItem=7095&ctNode=251&mp=1
+- 2026-10-25 太平山10月26日(一)上午八時恢復開園：https://recreation.forest.gov.tw/News/News?id=20261025001
 - 2026-10-24 阿里山國家森林遊樂區10月24日下午13時起恢復開園：https://recreation.forest.gov.tw/News/News?id=20261022008
 - 2026-10-24 奧萬大、合歡山森林遊樂區10月25日恢復開園：https://recreation.forest.gov.tw/News/News?id=20261024004
 - 2026-10-24 大雪山及八仙山國家森林遊樂區10月25日（日）恢復開園：https://recreation.forest.gov.tw/News/News?id=20261024002
@@ -26,14 +31,9 @@
 - 2026-10-23 Taipingshan National Forest Recreation Area-據點開放狀態-鳩之澤溫泉：https://tps.forest.gov.tw/TPSWeb/wSite/ct?ctNode=269&mp=2&xItem=4240
 - 2026-10-23 薔琵颱風 土石流及大規模崩塌警戒區預報 第2報：https://taichung.ardswc.gov.tw/News/press_more?id=E6CE0AC7359D4B2A8422FC88BAE17C79
 - 2026-10-23 親手挖土壘窯趣，窯香撲鼻限定季：https://ezgo.ardswc.gov.tw/zh-tw/event/5476/
-- 2026-10-22 臺灣豬「菲」常受歡迎！ 菲律賓國際飯店主廚與餐飲採購業者力讚臺灣豬肉美味鮮甜：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10319
-- 2026-10-22 嘉義縣10月23日停班停課，阿里山林鐵祝山線停駛：https://recreation.forest.gov.tw/News/News?id=20261022009
-- 2026-10-22 農糧署持續關注薔琵颱風影響 加強蔬菜調配供應穩定民生需求：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34383
-- 2026-10-22 薔琵颱風來襲 嘉南地區漂流木處理工作已整備：https://chiayi.forest.gov.tw/news/0079489
-- 2026-10-22 嚴防薔琵颱風影響 農業部召開工作會議嚴陣以待：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10318
-- 2026-10-22 新聞最前線> 農業新聞> 農糧署持續關注薔琵颱風影響加強蔬菜調配供應穩定民生需求：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=453&article_id=34383
-- 2026-10-22 薔琵颱風 土石流及大規模崩塌警戒預報 第1報：https://taichung.ardswc.gov.tw/News/press_more?id=156ED5BE69274B1B89E7DCFFC2491D8E
-- 2026-10-22 薔琵強颱來襲 奧萬大、合歡山森林遊樂區及天池山莊10月23日起預警性休園：https://recreation.forest.gov.tw/News/News?id=20261022006
+- 2026-10-23 【公開招標】沙河溪水砂調蓄區改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-1-71139172.xml
+- 2026-10-23 【公開招標】曹公舊圳幹線(0K+360)改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-1-71141959.xml
+- 2026-10-23 【公開招標】雲嶺之丘滯洪農塘改善二期工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-1-71142926.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
