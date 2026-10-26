@@ -37,7 +37,7 @@
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
-- 獎補助資訊網：https://grantking.subsidyking.tw/
+- 獎補助資訊網：https://www.grantking.tw/
 - 中部新聞網：https://web12.subsidyking.tw/
 - 台灣政府補助新聞網：https://news.subsidyking.tw/
 - 仁禾管理顧問：https://web18.subsidyking.tw/
