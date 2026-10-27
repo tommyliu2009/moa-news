@@ -4,36 +4,36 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-10-27（每日自動更新）
+- 更新：2026-10-28（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-27 中央氣象署發布薔琵陸上颱風警報，北大武山步道(含檜谷山屋)10月22日至10月26日預警性暫停開放：https://kgonline.forest.gov.tw/news/?mode=data&id=497&parent_id=&type_id=20
+- 2026-10-27 轄區青農諮詢暨農會知能訓練-農場行銷：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7929
+- 2026-10-27 轄區青農諮詢暨農會知能訓練-農場加工：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7928
+- 2026-10-27 從果香到米香，走進客庄的一天：https://ezgo.ardswc.gov.tw/zh-tw/event/5509/
+- 2026-10-27 新聞最前線> 農業新聞> 保護植物品種權重視育種者權益共同促進農業創新發展：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=453&article_id=34389
+- 2026-10-27 訊息專區-最新消息-林鐵及文資處廉政會報聚焦「廉能誠信」與機關安全!：https://afrch.forest.gov.tw/AllNews/0079509
+- 2026-10-27 桃園大園肉鵝場確診H5N1高原病性禽流感，請業者落實各項生物安全工作：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21587
+- 2026-10-27 動物保護藥品管理辦法草案分眾溝通會議（北區藥商及藥師場）：https://www.aphia.gov.tw/theme_data.php?theme=picture&id=496
+- 2026-10-27 臺日深化酪農產業與防檢疫交流 共同提升牧場生物安全及永續農業發展：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21586
+- 2026-10-27 廚餘養豬轉型期間防疫不鬆懈 監控異常即查核、違規依法處理：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21584
+- 2026-10-27 提高廚餘違規裁罰 違規搬運並餵豬首次合計罰100萬元：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21588
+- 2026-10-27 查獲新北市違規廚餘進入豬場 守護國內養豬產業：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21585
+- 2026-10-27 動物保護藥品管理辦法草案分眾溝通會議（南區藥商及藥師場）：https://www.aphia.gov.tw/theme_data.php?theme=picture&id=497
+- 2026-10-27 好康報報！農業數位整合服務填問卷抽好禮：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=hot&id=10326
+- 2026-10-27 臺南市豐華養豬場農業剩餘資材循環場域示範觀摩會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7932
+- 2026-10-27 115年度「原鄉力動 永續共好」&家政70週年慶祝活動：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7930
+- 2026-10-27 廉政專區> 廉政宣導> 防貪> 認識揭弊者保護法營造廉潔公務環境：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=1069&article_id=34378
+- 2026-10-27 史上最「農」音樂派對來襲！農業部「台味金曲之夜」11/7華山Legacy Taipei登場：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10325
+- 2026-10-27 從植物認識烏來！「原生之境─烏來山林植物誌」特展10月31日開展：https://recreation.forest.gov.tw/News/News?id=20261027001
+- 2026-10-27 保護植物品種權 重視育種者權益 共同促進農業創新發展：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34389
+- 2026-10-27 花蓮區農業改良場訂於115年11月7日(星期六)上午10時，於該場舉辦「花現原味・家政70」開放日活動：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34387
 - 2026-10-26 行政院卓院長關心薔琵颱風造成宜蘭柑橘類果樹災損及公糧倉庫受損 要求農業部儘速辦理救助措施以協助農民復耕復建：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=453&article_id=34385
 - 2026-10-26 公告新北市為辦理115年薔琵颱風農業天然災害現金救助及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9947
 - 2026-10-26 公告臺東縣為辦理在漁港區域漁船(筏)救助全品項115年薔琵颱風農業天然災害現金救助及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9946
 - 2026-10-26 公告新北市林口區及石碇區為辦理115年薔琵颱風農業天然災害現金及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9945
-- 2026-10-26 公告彰化縣為辦理115年薔琵颱風農業天然災害現金救助及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9951
-- 2026-10-26 新聞最前線> 最新消息> 臺東金剛好米好油飄香大臺北山海風采驚艷登場：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34386
-- 2026-10-26 公告臺東縣為辦理林業「混植造林－果樹－番荔枝」115年薔琵颱風農業天然災害現金救助及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9957
-- 2026-10-26 柑橘類」及和平區為辦理林業「混植造林－果樹－甜柿」115年薔琵颱風農業天然災害現金救助地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9956
-- 2026-10-26 公告臺東縣為辦理115年薔琵颱風農業天然災害現金救助及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9955
-- 2026-10-26 公告宜蘭縣為辦理115年薔琵颱風農業天然災害現金救助及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9954
-- 2026-10-25 【 北大武山國家自然步道及檜谷山屋自10月26日起開放】：https://recreation.forest.gov.tw/News/News?id=20261025002
-- 2026-10-25 農業部召開專家會議盤點薔琵颱風農漁業災情初勘結果 將儘速主動公告救助地區與品項 協助農漁民復耕復建：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10321
-- 2026-10-25 太平山國家森林遊樂區入口網-最新消息-太平山10月26日(一)上午八時恢復開園：https://tps.forest.gov.tw/TPSWeb/wSite/ct?xItem=7095&ctNode=251&mp=1
-- 2026-10-25 太平山10月26日(一)上午八時恢復開園：https://recreation.forest.gov.tw/News/News?id=20261025001
-- 2026-10-25 出國旅遊勿購買野生動物產製品 以提升國家形象：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=1
-- 2026-10-24 阿里山國家森林遊樂區10月24日下午13時起恢復開園：https://recreation.forest.gov.tw/News/News?id=20261022008
-- 2026-10-24 奧萬大、合歡山森林遊樂區10月25日恢復開園：https://recreation.forest.gov.tw/News/News?id=20261024004
-- 2026-10-24 大雪山及八仙山國家森林遊樂區10月25日（日）恢復開園：https://recreation.forest.gov.tw/News/News?id=20261024002
-- 2026-10-24 薔琵逐漸遠離，雙流25日恢復開園，墾丁26日恢復開園； 檜谷山屋及高屏地區自然步道仍持續暫停開放：https://recreation.forest.gov.tw/News/News?id=20261024006
-- 2026-10-24 115年薔琵颱風農業災情報告(截至10月24日10時)：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=717&article_id=34384
-- 2026-10-24 阿里山林鐵沼平線、神木線10月24日下午1時起恢復營運；本線及祝山線10月25日恢復營運：https://afrts.forest.gov.tw/TP02_1.aspx?id=269
-- 2026-10-24 訊息專區-最新消息-阿里山林鐵沼平線、神木線10月24日下午1時起恢復營運；本線及祝山線10月25日恢復營運：https://afrch.forest.gov.tw/AllNews/0079498
-- 2026-10-24 土石流及大規模崩塌防災資訊網：https://246.ardswc.gov.tw/ImportantEvents/TWSedimentStrategy
-- 2026-10-23 115 年薔琵颱風農業災情報告：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10320
-- 2026-10-23 奇萊美地親子食農趣：https://ezgo.ardswc.gov.tw/zh-tw/event/5487/
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
