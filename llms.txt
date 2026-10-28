@@ -4,11 +4,18 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-10-28（每日自動更新）
+- 更新：2026-10-29（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-28 公告宜蘭縣、花蓮縣、臺東縣及屏東縣為辦理定置網漁業救助全品項115年薔琵颱風農業天然災害現金救助及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9964
+- 2026-10-28 農業青年大使團聚交流國際經驗 農業部拓展人才培育與產業合作：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10327
+- 2026-10-28 提高違規廚餘養豬裁罰、強化科技監控與實地稽查，嚴守非洲豬瘟防疫防線：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21591
+- 2026-10-28 公告116年度「新光產物鳳梨農作物保險（區域收穫型）」為農業保險商品：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9961
+- 2026-10-28 公開高粱‘台中 7 號’等5件植物品種權申請案如附件一覽表：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9962
+- 2026-10-28 手作維護山海圳-特富野古道：https://www.forest.gov.tw/news/0079521
+- 2026-10-28 走讀豐田・食農與玉石的土地交響曲：https://ezgo.ardswc.gov.tw/zh-tw/event/5500/
 - 2026-10-27 中央氣象署發布薔琵陸上颱風警報，北大武山步道(含檜谷山屋)10月22日至10月26日預警性暫停開放：https://kgonline.forest.gov.tw/news/?mode=data&id=497&parent_id=&type_id=20
 - 2026-10-27 轄區青農諮詢暨農會知能訓練-農場行銷：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7929
 - 2026-10-27 轄區青農諮詢暨農會知能訓練-農場加工：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7928
@@ -27,13 +34,6 @@
 - 2026-10-27 115年度「原鄉力動 永續共好」&家政70週年慶祝活動：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7930
 - 2026-10-27 廉政專區> 廉政宣導> 防貪> 認識揭弊者保護法營造廉潔公務環境：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=1069&article_id=34378
 - 2026-10-27 史上最「農」音樂派對來襲！農業部「台味金曲之夜」11/7華山Legacy Taipei登場：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10325
-- 2026-10-27 從植物認識烏來！「原生之境─烏來山林植物誌」特展10月31日開展：https://recreation.forest.gov.tw/News/News?id=20261027001
-- 2026-10-27 保護植物品種權 重視育種者權益 共同促進農業創新發展：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34389
-- 2026-10-27 花蓮區農業改良場訂於115年11月7日(星期六)上午10時，於該場舉辦「花現原味・家政70」開放日活動：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34387
-- 2026-10-26 行政院卓院長關心薔琵颱風造成宜蘭柑橘類果樹災損及公糧倉庫受損 要求農業部儘速辦理救助措施以協助農民復耕復建：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=453&article_id=34385
-- 2026-10-26 公告新北市為辦理115年薔琵颱風農業天然災害現金救助及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9947
-- 2026-10-26 公告臺東縣為辦理在漁港區域漁船(筏)救助全品項115年薔琵颱風農業天然災害現金救助及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9946
-- 2026-10-26 公告新北市林口區及石碇區為辦理115年薔琵颱風農業天然災害現金及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9945
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
