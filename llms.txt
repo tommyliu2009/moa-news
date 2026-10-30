@@ -4,11 +4,26 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-10-30（每日自動更新）
+- 更新：2026-10-31（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-31 視察花蓮漁港儲冰廠及冷凍庫新建工程規劃進度卓揆：中央提高工程補助至7成兼顧食安與漁民權益：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102250
+- 2026-10-30 跨域玩花新體驗！「花彩森映會」帶花卉走進全民生活圈：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34404
+- 2026-10-30 2027年全國優質產區名米選拔：https://www.afa.gov.tw/cht/index.php?code=list&ids=3706
+- 2026-10-30 即日起開放申請農業部115年度「AI增能共創智慧農業2.0—技術模組整合擴散應用輔導計畫」，歡迎踴躍參與（115年12月15日截止收件）：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=hot&id=10330
+- 2026-10-30 立院三讀通過農業發展條例、水土保持法、山坡地保育利用條例修正條文 農業部重申農地農用、遏止山坡地違法開發：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10331
+- 2026-10-30 116年全國優質產區名米選拔實施計畫：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=379&article_id=34401
+- 2026-10-30 秋冬正當令 漁業署攜手全聯推「海鮮饗宴」：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102260
+- 2026-10-30 2026臺灣國際咖啡論壇雲林登場 串聯產製銷接軌國際：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102261
+- 2026-10-30 新聞最前線> 最新消息> 臺東好糧飄香臺北南迴特色農產齊聚內湖展現原鄉好滋味：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34399
+- 2026-10-30 訊息專區-最新消息-太危險了！林鐵處與警方聯合取締9名遊客違規行走軌道：https://afrch.forest.gov.tw/AllNews/0079539
+- 2026-10-30 全台農損近2億雲林受災1.2億占65%(自由時報A6)-洋桔梗主題館：https://kmweb.moa.gov.tw/subject/subject.php?id=66266
+- 2026-10-30 獸醫所辦理11月份第985次學術研討會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7936
+- 2026-10-30 訊息專區-最新消息-沼平線列車11/4 車廂調整公告：https://afrch.forest.gov.tw/AllNews/0079537
+- 2026-10-30 無人機高通量表型串接候選基因，加速黃豆抗倒伏育種：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11148
+- 2026-10-30 薔琵颱風 土石流及大規模崩塌警戒區預報 第13報：https://taichung.ardswc.gov.tw/News/press_more?id=38E22D00F25C4210AF103D858F48B630
 - 2026-10-29 桃園區農情月刊---第325期-------------政策宣導~外籍家庭幫傭申請新制：https://kmweb.moa.gov.tw/knowledgebase.php?id=431945
 - 2026-10-29 青農文化外交特色料理上桌(中華日報B2)-洋桔梗主題館：https://kmweb.moa.gov.tw/subject/subject.php?id=66160
 - 2026-10-29 薔琵颱風釀1死634傷農損1.3億(中國時報A1)-洋桔梗主題館：https://kmweb.moa.gov.tw/subject/subject.php?id=66193
@@ -19,21 +34,6 @@
 - 2026-10-29 AI番茄採收機器人先評估「採收容易度」再決定採收策略：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11147
 - 2026-10-29 臺東農改場115年「原鄉力動 永續共好」&家政70週年慶祝活動 歡迎蒞臨參加：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=activity&id=102199
 - 2026-10-29 新聞最前線> 最新消息> 一年份產銷履歷好米等你抽！ 「2026年十大模飯米料理」全民票選中：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34396
-- 2026-10-29 薔琵颱風造成農業災損 農業部加速協助農漁民復耕復建：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10328
-- 2026-10-28 公告宜蘭縣、花蓮縣、臺東縣及屏東縣為辦理定置網漁業救助全品項115年薔琵颱風農業天然災害現金救助及低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9964
-- 2026-10-28 農業青年大使團聚交流國際經驗 農業部拓展人才培育與產業合作：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10327
-- 2026-10-28 提高違規廚餘養豬裁罰、強化科技監控與實地稽查，嚴守非洲豬瘟防疫防線：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21591
-- 2026-10-28 公告116年度「新光產物鳳梨農作物保險（區域收穫型）」為農業保險商品：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9961
-- 2026-10-28 公開高粱‘台中 7 號’等5件植物品種權申請案如附件一覽表：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9962
-- 2026-10-28 手作維護山海圳-特富野古道：https://www.forest.gov.tw/news/0079521
-- 2026-10-28 走讀豐田・食農與玉石的土地交響曲：https://ezgo.ardswc.gov.tw/zh-tw/event/5500/
-- 2026-10-28 【決標】115平苗4號及獎苗15號，三民苗圃綠美化及造林苗木播種、移袋培養，以及苗木掘選包裝與災害搶修：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71314222.xml
-- 2026-10-28 【決標】土砂動態感測應用與崩塌型堰塞壩潰決機制探討：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71314274.xml
-- 2026-10-28 【決標】農產品低溫試驗用冷藏庫機組更新：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71314594.xml
-- 2026-10-28 【決標】115年度政府進口米到貨公證檢驗服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71314673.xml
-- 2026-10-28 【決標】115及116年度曹公區水門機件維護開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71314684.xml
-- 2026-10-28 【決標】保育共生地認證工作行政支援專案工作計畫(第二期)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71314988.xml
-- 2026-10-28 【決標】農糧署北區分署視訊會議設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71315109.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
