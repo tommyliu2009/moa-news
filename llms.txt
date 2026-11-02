@@ -4,11 +4,26 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-02（每日自動更新）
+- 更新：2026-11-03（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-03 想請問我的羅漢松問題是遇到什麼？：https://kmweb.moa.gov.tw/knowledge_view.php?id=20373
+- 2026-11-02 「十大模飯米料理」人氣爭霸戰升溫！169家餐廳拚人氣 黃金烏魚子炒飯暫居榜首 特色好飯誰能脫穎而出？：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=16&article_id=34419
+- 2026-11-02 於新北市新店區辦理「國產有機質暨微生物等農田地力肥料推廣及農業政策說明講習會」：https://fae.moa.gov.tw/theme_data.php?theme=news&sub_theme=event_info&id=34129
+- 2026-11-02 合歡山國家森林遊樂區訂房網址說明：https://recreation.forest.gov.tw/News/News?id=20261102001
+- 2026-11-02 從一間小店出發，慢慢走進臺東——「慢東商號旅行社」帶你走讀山海日常：https://fae.moa.gov.tw/theme_data.php?theme=news&sub_theme=hot_news&id=34123
+- 2026-11-02 農業試驗所農業訓練中心106電腦教室：https://web.tari.gov.tw/registration/act/index-1.asp?m2=&sid=445
+- 2026-11-02 新聞最前線> 最新消息> 稻草勿燃燒應掩埋，用分解菌有機質肥料有獲補助：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34415
+- 2026-11-02 訊息專區-最新消息-楓紅啟程！阿里山季節限定賞楓列車11月17日開放訂票：https://afrch.forest.gov.tw/AllNews/0079549
+- 2026-11-02 於新竹縣湖口鄉辦理「115年國產有機質暨微生物等農田地力肥料推廣及因應氣候變遷-水稻栽培調適與農業政策說明作物栽培管理技術諮詢會議」：https://fae.moa.gov.tw/theme_data.php?theme=news&sub_theme=event_info&id=33962
+- 2026-11-02 於新北市深坑區辦理「115年國產有機質暨微生物等農田地力肥料推廣暨農業政策說明作物栽培管理技術諮詢」：https://fae.moa.gov.tw/theme_data.php?theme=news&sub_theme=event_info&id=33963
+- 2026-11-02 八、結語：邁向兼顧農業生產、農民收益與生態保育的有機稻米產業：https://kmweb.moa.gov.tw/subject/subject.php?id=66290
+- 2026-11-02 二、稻米產業面臨的問題與有機水稻發展挑戰-有機稻米館：https://kmweb.moa.gov.tw/subject/subject.php?id=66287
+- 2026-11-02 三、生產、生活及生態三合一：有機水稻產業的永續發展-有機稻米館：https://kmweb.moa.gov.tw/subject/subject.php?id=66288
+- 2026-11-02 七、展望：臺灣有機水稻產業的發展方向與未來目標-有機稻米館：https://kmweb.moa.gov.tw/subject/subject.php?id=66289
+- 2026-11-02 歷年國內有機農糧產品驗證面積統計與發展趨勢-有機稻米館：https://kmweb.moa.gov.tw/subject/subject.php?id=66291
 - 2026-11-01 提高廚餘違規裁罰 違規搬運並餵豬首次合計罰100萬：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=431997
 - 2026-11-01 蝴蝶蘭的水草可以重複使用？：https://kmweb.moa.gov.tw/knowledge_view.php?id=20372
 - 2026-11-01 想請問我的虎尾蘭葉片為什麼越來越倒：https://kmweb.moa.gov.tw/knowledge_view.php?id=20371
@@ -19,21 +34,6 @@
 - 2026-10-31 新聞最前線> 最新消息> 翻轉二期稻作景觀花海專區開花結果帶動農村輕旅：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=17&article_id=34334
 - 2026-10-31 薔琵颱風農損逾2.2億 9縣市納救助(中華日報A4)-胡麻主題館：https://kmweb.moa.gov.tw/subject/subject.php?id=66277
 - 2026-10-30 跨域玩花新體驗！「花彩森映會」帶花卉走進全民生活圈：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34404
-- 2026-10-30 2027年全國優質產區名米選拔：https://www.afa.gov.tw/cht/index.php?code=list&ids=3706
-- 2026-10-30 即日起開放申請農業部115年度「AI增能共創智慧農業2.0—技術模組整合擴散應用輔導計畫」，歡迎踴躍參與（115年12月15日截止收件）：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=hot&id=10330
-- 2026-10-30 立院三讀通過農業發展條例、水土保持法、山坡地保育利用條例修正條文 農業部重申農地農用、遏止山坡地違法開發：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10331
-- 2026-10-30 116年全國優質產區名米選拔實施計畫：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=379&article_id=34401
-- 2026-10-30 秋冬正當令 漁業署攜手全聯推「海鮮饗宴」：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102260
-- 2026-10-30 2026臺灣國際咖啡論壇雲林登場 串聯產製銷接軌國際：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102261
-- 2026-10-30 新聞最前線> 最新消息> 臺東好糧飄香臺北南迴特色農產齊聚內湖展現原鄉好滋味：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34399
-- 2026-10-30 訊息專區-最新消息-太危險了！林鐵處與警方聯合取締9名遊客違規行走軌道：https://afrch.forest.gov.tw/AllNews/0079539
-- 2026-10-30 全台農損近2億雲林受災1.2億占65%(自由時報A6)-洋桔梗主題館：https://kmweb.moa.gov.tw/subject/subject.php?id=66266
-- 2026-10-30 獸醫所辦理11月份第985次學術研討會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7936
-- 2026-10-30 訊息專區-最新消息-沼平線列車11/4 車廂調整公告：https://afrch.forest.gov.tw/AllNews/0079537
-- 2026-10-30 無人機高通量表型串接候選基因，加速黃豆抗倒伏育種：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11148
-- 2026-10-30 薔琵颱風 土石流及大規模崩塌警戒區預報 第13報：https://taichung.ardswc.gov.tw/News/press_more?id=38E22D00F25C4210AF103D858F48B630
-- 2026-10-30 2026年屏鵝公路第三屆植栽維護管理研討會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7938
-- 2026-10-30 2026年芥藍品種比賽：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7937
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
