@@ -4,12 +4,27 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-04（每日自動更新）
+- 更新：2026-11-05（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-11-04 國家發展委員會檔案管理局「2026檔案月」啟動儀式暨時光同樂會活動：https://taipei.ardswc.gov.tw/News/news_more?id=1b2d9a8a00034e7f846b0fca9c31bc85
+- 2026-11-04 臺灣米大阪慈善義賣支持熊本災後重建 深化臺日情誼與農產交流：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10336
+- 2026-11-04 新退撫資訊> 銓敘部建置「公務人員退休所得重審後實發金額試算器」， 請退休人員多加利用。：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=524&article_id=33917
+- 2026-11-04 是誰在呼喚我？赫威巨木2026寒訓營 邀青少年探索巨木群、培養山林行動力：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=102314
+- 2026-11-04 「秋冬果香滿府城」在地小農齊聚展售優質椪柑、柳丁與特色農產加工品，邀您品味產地到餐桌的美好滋味：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102315
+- 2026-11-04 薔琵颱風 土石流及大規模崩塌警戒區預報 第11報：https://www.ardswc.gov.tw/Home/News/press_more?id=5A55A6A7899445A08B7E1E312772E94F
+- 2026-11-04 農業部林業及自然保育署南投分署115投漂2-4號(第4次標售)國有林產物標售決標公告：https://taiwanwood.forest.gov.tw/zh-tw/award-notice/58/
+- 2026-11-04 秋日漫遊東山！美景與咖啡的雙重饗宴：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=186&article_id=34426
+- 2026-11-04 滿緣蔬菜-返鄉青農 許嘉倫：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=186&article_id=34427
+- 2026-11-04 退伍軍人返鄉務農打造嘉義優鮮柑橘 邀您來品嚐!：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=186&article_id=34428
+- 2026-11-04 電動圓盤式施肥機－機具優勢：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432003
+- 2026-11-04 電動圓盤式施肥機－應用成果：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432004
+- 2026-11-04 修正「違反動物傳染病防治條例第二十八條第一項第一款公告禁止搬運廢棄物案件裁罰基準」第二點，並自即日生效。：https://asf.aphia.gov.tw/theme_data.php?theme=news&sub_theme=asf&id=20902
+- 2026-11-04 雲林全民農LIVE秀培育在地農業網紅(民眾日報3)-洋桔梗主題館：https://kmweb.moa.gov.tw/subject/subject.php?id=66318
+- 2026-11-04 115年第2期作公糧稻穀收購 把握合適收穫期 品質好收益佳：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=114&article_id=34422
+- 2026-11-04 農糧署攜手中華郵政共推優質農產品 i郵購「台灣好味郵你尋」履歷農糧精品專區 9月1日正式上線：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34062
 - 2026-11-03 想請問我的羅漢松問題是遇到什麼？：https://kmweb.moa.gov.tw/knowledge_view.php?id=20373
 - 2026-11-03 推進循環原料飼料轉型、精準科技監控與中秋邊境防線，持續守護非疫家園：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21570
 - 2026-11-03 115年上半年漁業署漁獲物生物氚抽驗檢測結果(遠洋漁獲)1101(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Radiation_zone&subtheme=&id=761&print=Y
@@ -19,21 +34,6 @@
 - 2026-11-03 第四屆全球四健網絡高峰會在臺隆重登場 全球四健青年共築「超越準備‧領航未來」新願景：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10333
 - 2026-11-03 薔琵強風無雨釀鹽塵害雲林農損億元(自由時報A8)-大蒜主題館：https://kmweb.moa.gov.tw/subject/subject.php?id=66200
 - 2026-11-03 三年串聯50家企業共創永續 自然碳匯與生物多樣性專案媒合平臺115年媒合案再創新高：https://www.forest.gov.tw/news/0079561
-- 2026-11-03 陸海並進全方位保障船員權益 打造友善漁業環境：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2272
-- 2026-11-03 預告修正「供獸醫師（佐）治療犬貓及非經濟動物之人用藥物類別品項」部分規定：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9978
-- 2026-11-03 農用曳引機道路駕駛訓練模組－技術介紹：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=431999
-- 2026-11-03 115年娛樂漁業漁船經營載客潛水活動研習訓練(課程資訊)：https://www.fa.gov.tw/view.php?theme=Announcement_Info&subtheme=&id=615
-- 2026-11-03 訊息專區-活動資訊-2026「楓度翩翩」賞楓主題列車：https://afrch.forest.gov.tw/0000061/0000543
-- 2026-11-03 2場親子牡蠣食魚教育 深度體驗從蚵田到餐桌：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=activity&id=102267
-- 2026-11-03 公告資訊-行政公告：https://www.tari.gov.tw/news/index-1.asp?Parser=9,4,750,,,,5673
-- 2026-11-03 【決標】紅石林道2K-4K路面及邊坡改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320307.xml
-- 2026-11-03 【決標】116年度「資訊安全暨資訊軟硬體設備委外維護專案」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320380.xml
-- 2026-11-03 【決標】Echoview 魚群聲學資料分析軟體升級及功能模組乙套：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320421.xml
-- 2026-11-03 【決標】115年度水利小組長聯席會議暨考察及觀摩活動：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320479.xml
-- 2026-11-03 【決標】旗山工作站田寮分站辦公廳舍拆除工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320636.xml
-- 2026-11-03 【決標】嘉義製材所大辦公室國產竹材地板鋪設案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320684.xml
-- 2026-11-03 【決標】南投分署轄區受脅植物保育推動計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320822.xml
-- 2026-11-03 【決標】富源國家森林遊樂區蝶類友善環境優化委託專業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320869.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
