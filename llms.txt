@@ -4,36 +4,36 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-05（每日自動更新）
+- 更新：2026-11-06（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-04 國家發展委員會檔案管理局「2026檔案月」啟動儀式暨時光同樂會活動：https://taipei.ardswc.gov.tw/News/news_more?id=1b2d9a8a00034e7f846b0fca9c31bc85
-- 2026-11-04 臺灣米大阪慈善義賣支持熊本災後重建 深化臺日情誼與農產交流：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10336
-- 2026-11-04 新退撫資訊> 銓敘部建置「公務人員退休所得重審後實發金額試算器」， 請退休人員多加利用。：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=524&article_id=33917
-- 2026-11-04 是誰在呼喚我？赫威巨木2026寒訓營 邀青少年探索巨木群、培養山林行動力：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=102314
-- 2026-11-04 「秋冬果香滿府城」在地小農齊聚展售優質椪柑、柳丁與特色農產加工品，邀您品味產地到餐桌的美好滋味：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102315
-- 2026-11-04 薔琵颱風 土石流及大規模崩塌警戒區預報 第11報：https://www.ardswc.gov.tw/Home/News/press_more?id=5A55A6A7899445A08B7E1E312772E94F
-- 2026-11-04 農業部林業及自然保育署南投分署115投漂2-4號(第4次標售)國有林產物標售決標公告：https://taiwanwood.forest.gov.tw/zh-tw/award-notice/58/
-- 2026-11-04 秋日漫遊東山！美景與咖啡的雙重饗宴：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=186&article_id=34426
-- 2026-11-04 滿緣蔬菜-返鄉青農 許嘉倫：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=186&article_id=34427
-- 2026-11-04 退伍軍人返鄉務農打造嘉義優鮮柑橘 邀您來品嚐!：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=186&article_id=34428
-- 2026-11-04 電動圓盤式施肥機－機具優勢：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432003
-- 2026-11-04 電動圓盤式施肥機－應用成果：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432004
-- 2026-11-04 修正「違反動物傳染病防治條例第二十八條第一項第一款公告禁止搬運廢棄物案件裁罰基準」第二點，並自即日生效。：https://asf.aphia.gov.tw/theme_data.php?theme=news&sub_theme=asf&id=20902
-- 2026-11-04 雲林全民農LIVE秀培育在地農業網紅(民眾日報3)-洋桔梗主題館：https://kmweb.moa.gov.tw/subject/subject.php?id=66318
-- 2026-11-04 115年第2期作公糧稻穀收購 把握合適收穫期 品質好收益佳：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=114&article_id=34422
-- 2026-11-04 農糧署攜手中華郵政共推優質農產品 i郵購「台灣好味郵你尋」履歷農糧精品專區 9月1日正式上線：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34062
-- 2026-11-03 想請問我的羅漢松問題是遇到什麼？：https://kmweb.moa.gov.tw/knowledge_view.php?id=20373
-- 2026-11-03 推進循環原料飼料轉型、精準科技監控與中秋邊境防線，持續守護非疫家園：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21570
-- 2026-11-03 115年上半年漁業署漁獲物生物氚抽驗檢測結果(遠洋漁獲)1101(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Radiation_zone&subtheme=&id=761&print=Y
-- 2026-11-03 2026貢寮鮑食魚教育課程：https://ezgo.ardswc.gov.tw/zh-tw/event/5543/
-- 2026-11-03 防範非洲豬瘟入侵 農業部陳駿季部長於中秋節前赴北臺灣郵件作業中心視察國際郵包查驗管制措施：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21572
-- 2026-11-03 屏東鹽埔鵪鶉場確診H5N1高原病性禽流感，請業者落實各項生物安全工作：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21592
-- 2026-11-03 第四屆全球四健網絡高峰會在臺隆重登場 全球四健青年共築「超越準備‧領航未來」新願景：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10333
-- 2026-11-03 薔琵強風無雨釀鹽塵害雲林農損億元(自由時報A8)-大蒜主題館：https://kmweb.moa.gov.tw/subject/subject.php?id=66200
-- 2026-11-03 三年串聯50家企業共創永續 自然碳匯與生物多樣性專案媒合平臺115年媒合案再創新高：https://www.forest.gov.tw/news/0079561
+- 2026-11-06 薔琵颱風嘉義縣辦理大豆、胡(芝)麻、落花生、甘藷、南瓜、辣椒及食用番茄現金救助，請於11月13日前申請：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102282
+- 2026-11-06 竹帆船「泊」進松園、月桃端上餐桌 豐濱五部落用藝術說自然：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=activity&id=102284
+- 2026-11-05 預告訂定「鰻苗捕撈溯源管理應遵行事項」：https://www.fa.gov.tw/view.php?theme=Advancenoticeofdraftregulationsandorders&subtheme=&id=124
+- 2026-11-05 小波影像分析提升蛋殼數位表型精度，降低育種資料需求：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11150
+- 2026-11-05 FBI-930檔案：https://recreation.forest.gov.tw/Education/Course?id=DYS-A21604
+- 2026-11-05 塑膠布（網）115年薔琵颱風農業天然災害低利貸款地區 - 公告：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9985
+- 2026-11-05 公告桃園市大園區等9區為辦理蕎麥等作物及塑膠布溫網室-塑膠布（網）115年薔琵颱風農業天然災害低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9987
+- 2026-11-05 公告新竹縣湖口鄉、竹北市及新豐鄉為辦理小麥及大豆115年薔琵颱風農業天然災害低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9988
+- 2026-11-05 點亮嘉南！嘉義分署攜8企業共創ESG新局：https://www.moa.gov.tw/redirect_link.php?theme=rss_news&filed=link&id=129878
+- 2026-11-05 農業部前進日本拓展優質農產品 臺灣鰻魚、排骨便當進駐 日本松源超市45家關西地區門市：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10341
+- 2026-11-05 「花現原味・家政70」花蓮場11月7日開FUN日登場 食農體驗、原民智慧與農業成果邀您一起探索：https://kmweb.moa.gov.tw/theme_data.php?theme=news&id=102323&sub_theme=
+- 2026-11-05 於新北市三峽區辦理115年國產有機質暨微生物等農田地力肥料推廣暨農業政策說明作物栽培管理技術諮詢：https://fae.moa.gov.tw/theme_data.php?theme=news&sub_theme=event_info&id=34227
+- 2026-11-05 因應種苗產業多元經營 農業部公告修正「種苗業者應具備條件及設備標準」：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34444
+- 2026-11-05 中秋節後持續加強廚餘查核 首波鎖定曾違規業者：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21583
+- 2026-11-05 農產品產地產期查詢：https://www.afa.gov.tw/cht/index.php?amp;cityID=M&code=list&ids=1103&mod_code=search&page=20
+- 2026-11-05 業者抗議實施家禽禁宰禁運決策草率?此項措施是否造成雞隻漲價?又農業部開2種例外，是否導致防疫破功?：https://www.aphia.gov.tw/theme_list.php?class=ai&page=2&sub_theme=baphiq&theme=question
+- 2026-11-05 115年度「青年農民創新加值經營計畫」即日起至115年12月14日止開放徵案申請：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=hot&id=10339
+- 2026-11-05 臺灣優質切花綻放南半球！蝴蝶蘭及火鶴花接連順利輸往紐西蘭：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21573
+- 2026-11-05 【決標】115年三峽地區國有林造林撫育工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71322758.xml
+- 2026-11-05 【決標】115年度軔塊採購：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71322782.xml
+- 2026-11-05 【決標】115A關山工作站轄區緊急搶修及一般維護(開口契約)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71322892.xml
+- 2026-11-05 【決標】115年「養殖漁業生產區強化建設及雲端系統服務」委託專業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71322903.xml
+- 2026-11-05 【決標】瑪家鄉軸帶型生態旅遊發展與在地人才培力計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71323024.xml
+- 2026-11-05 【決標】花蓮分署廳舍設備維護工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71323331.xml
+- 2026-11-05 【決標】115年度委託科技研究計畫「支援動物用藥品品質監測與檢驗」第一次契約變更：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71323701.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
