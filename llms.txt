@@ -4,36 +4,36 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-06（每日自動更新）
+- 更新：2026-11-07（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-11-06 薔琵颱風嘉義縣辦理大豆、胡(芝)麻、落花生、甘藷、南瓜、辣椒及食用番茄現金救助，請於11月13日前申請：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102282
 - 2026-11-06 竹帆船「泊」進松園、月桃端上餐桌 豐濱五部落用藝術說自然：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=activity&id=102284
+- 2026-11-06 種植羅漢松兩個月葉子枯黃，輕輕一碰就掉落，是什麼原因？：https://kmweb.moa.gov.tw/knowledge_view.php?id=20374
+- 2026-11-06 最新公告-最新消息-【系統維護】115年9月15日(二)，上午10:00～下午14:00進行「例行性主機維護」，該期間有短暫服務中斷情況，造成不便之處，敬請見諒，謝謝。：https://uav.aphia.gov.tw/cp-3-220-dc2ee-1.html
+- 2026-11-06 2026食芋公館體驗活動：https://ezgo.ardswc.gov.tw/zh-tw/event/5557/
+- 2026-11-06 校園廚藝新秀大膽玩米食！「非米不可」冠軍揭曉：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34449
+- 2026-11-06 臺灣與印尼深化農業合作 推動蝴蝶蘭接力生產與強化糧食安全交流：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102343
+- 2026-11-06 防檢署護國神犬再臨ITF台灣國際旅展！化身巨星邀你一同應援守護邊境：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21593
+- 2026-11-06 行政院 1萬元版本兼顧老農照顧與財政永續，如提高至 1.5萬未來執行將需面對政府財源及農業施政資源配置問題：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10345
+- 2026-11-06 台灣國際旅展林業保育署「國家森林館」亮相 跟著原生動物走進霧林縹緲森境：https://www.forest.gov.tw/news/0079590
+- 2026-11-06 竹市府攜手百年農會加碼預算！高虹安市長：全方位照護在地農友 打造永續農業：https://fae.moa.gov.tw/theme_data.php?theme=news&sub_theme=event_result&id=34275
+- 2026-11-06 霞喀羅國家步道黑熊現蹤 新竹分署提醒遊客提高警覺：https://recreation.forest.gov.tw/News/News?id=20261106001
+- 2026-11-06 臺南區農業專訊第137期-從日本補血草屬花卉育種與生產技術，探討臺灣品種未來發展：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432021
+- 2026-11-06 臺南區農業專訊第137期-日本露天與設施農業病蟲害管理之參訪紀實-黃秀雯、王志瑋、許涵鈞、鍾瑞永、張錦興：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432024
+- 2026-11-06 新聞最前線> 最新消息> 香橙四溢，營養豐富，來顆柳丁吧！：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=17&article_id=34446
+- 2026-11-06 臺南區農業專訊第137期-延後低溫貯藏對大蒜長期貯藏的影響：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432018
+- 2026-11-06 臺南區農業專訊第137期-從田間到市場～甘藍外葉留存如何兼顧品質與減廢：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432020
+- 2026-11-06 臺南區農業專訊第137期-有機水稻紙膜插秧抑草與節水栽培技術介紹：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432017
+- 2026-11-06 秋作土壤管理掌握水肥平衡 臺南場籲檢測肥力預防土壤鹽化：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432011
+- 2026-11-06 剩餘資源再生利用 養豬場自製堆肥提升硬質玉米生產效益 循環場域示範觀摩會：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432012
+- 2026-11-06 115年 11月份國內外漁業輿情(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Fishery_public_opinion&subtheme=&id=92&print=Y
 - 2026-11-05 預告訂定「鰻苗捕撈溯源管理應遵行事項」：https://www.fa.gov.tw/view.php?theme=Advancenoticeofdraftregulationsandorders&subtheme=&id=124
 - 2026-11-05 小波影像分析提升蛋殼數位表型精度，降低育種資料需求：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11150
 - 2026-11-05 FBI-930檔案：https://recreation.forest.gov.tw/Education/Course?id=DYS-A21604
 - 2026-11-05 塑膠布（網）115年薔琵颱風農業天然災害低利貸款地區 - 公告：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9985
-- 2026-11-05 公告桃園市大園區等9區為辦理蕎麥等作物及塑膠布溫網室-塑膠布（網）115年薔琵颱風農業天然災害低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9987
-- 2026-11-05 公告新竹縣湖口鄉、竹北市及新豐鄉為辦理小麥及大豆115年薔琵颱風農業天然災害低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9988
-- 2026-11-05 點亮嘉南！嘉義分署攜8企業共創ESG新局：https://www.moa.gov.tw/redirect_link.php?theme=rss_news&filed=link&id=129878
-- 2026-11-05 農業部前進日本拓展優質農產品 臺灣鰻魚、排骨便當進駐 日本松源超市45家關西地區門市：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10341
-- 2026-11-05 「花現原味・家政70」花蓮場11月7日開FUN日登場 食農體驗、原民智慧與農業成果邀您一起探索：https://kmweb.moa.gov.tw/theme_data.php?theme=news&id=102323&sub_theme=
-- 2026-11-05 於新北市三峽區辦理115年國產有機質暨微生物等農田地力肥料推廣暨農業政策說明作物栽培管理技術諮詢：https://fae.moa.gov.tw/theme_data.php?theme=news&sub_theme=event_info&id=34227
-- 2026-11-05 因應種苗產業多元經營 農業部公告修正「種苗業者應具備條件及設備標準」：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34444
-- 2026-11-05 中秋節後持續加強廚餘查核 首波鎖定曾違規業者：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21583
-- 2026-11-05 農產品產地產期查詢：https://www.afa.gov.tw/cht/index.php?amp;cityID=M&code=list&ids=1103&mod_code=search&page=20
-- 2026-11-05 業者抗議實施家禽禁宰禁運決策草率?此項措施是否造成雞隻漲價?又農業部開2種例外，是否導致防疫破功?：https://www.aphia.gov.tw/theme_list.php?class=ai&page=2&sub_theme=baphiq&theme=question
-- 2026-11-05 115年度「青年農民創新加值經營計畫」即日起至115年12月14日止開放徵案申請：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=hot&id=10339
-- 2026-11-05 臺灣優質切花綻放南半球！蝴蝶蘭及火鶴花接連順利輸往紐西蘭：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21573
-- 2026-11-05 【決標】115年三峽地區國有林造林撫育工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71322758.xml
-- 2026-11-05 【決標】115年度軔塊採購：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71322782.xml
-- 2026-11-05 【決標】115A關山工作站轄區緊急搶修及一般維護(開口契約)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71322892.xml
-- 2026-11-05 【決標】115年「養殖漁業生產區強化建設及雲端系統服務」委託專業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71322903.xml
-- 2026-11-05 【決標】瑪家鄉軸帶型生態旅遊發展與在地人才培力計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71323024.xml
-- 2026-11-05 【決標】花蓮分署廳舍設備維護工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71323331.xml
-- 2026-11-05 【決標】115年度委託科技研究計畫「支援動物用藥品品質監測與檢驗」第一次契約變更：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71323701.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
