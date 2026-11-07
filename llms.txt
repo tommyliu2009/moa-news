@@ -4,11 +4,17 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-07（每日自動更新）
+- 更新：2026-11-08（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-07 植物常常有螞蟻 植物不知道為什麼就死亡了：https://kmweb.moa.gov.tw/knowledge_view.php?id=20378
+- 2026-11-07 農業部攜手臺日企業 臺灣花卉、香蕉走上仙台街頭拓商機：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10346
+- 2026-11-07 2026關西仙草花文化節：https://ezgo.ardswc.gov.tw/zh-tw/event/5544/
+- 2026-11-07 茶香咖啡香伴月圓 國產茶及咖啡好禮送心意：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34065
+- 2026-11-07 土耳其發布南瓜種子輸入檢疫緊急措施：https://www.aphia.gov.tw/office/tyaphia/theme_data.php?theme=news&id=2483
+- 2026-11-07 0901豪雨 土石流及大規模崩塌警戒區預報 第4報：https://taichung.ardswc.gov.tw/News/press_more?id=2496EC4E37314CB290424CFD846ED465
 - 2026-11-06 薔琵颱風嘉義縣辦理大豆、胡(芝)麻、落花生、甘藷、南瓜、辣椒及食用番茄現金救助，請於11月13日前申請：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102282
 - 2026-11-06 竹帆船「泊」進松園、月桃端上餐桌 豐濱五部落用藝術說自然：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=activity&id=102284
 - 2026-11-06 種植羅漢松兩個月葉子枯黃，輕輕一碰就掉落，是什麼原因？：https://kmweb.moa.gov.tw/knowledge_view.php?id=20374
@@ -28,12 +34,6 @@
 - 2026-11-06 臺南區農業專訊第137期-從田間到市場～甘藍外葉留存如何兼顧品質與減廢：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432020
 - 2026-11-06 臺南區農業專訊第137期-有機水稻紙膜插秧抑草與節水栽培技術介紹：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432017
 - 2026-11-06 秋作土壤管理掌握水肥平衡 臺南場籲檢測肥力預防土壤鹽化：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432011
-- 2026-11-06 剩餘資源再生利用 養豬場自製堆肥提升硬質玉米生產效益 循環場域示範觀摩會：https://kmweb.moa.gov.tw/knowledgebase.php?func=&type=0&keyword=&id=432012
-- 2026-11-06 115年 11月份國內外漁業輿情(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Fishery_public_opinion&subtheme=&id=92&print=Y
-- 2026-11-05 預告訂定「鰻苗捕撈溯源管理應遵行事項」：https://www.fa.gov.tw/view.php?theme=Advancenoticeofdraftregulationsandorders&subtheme=&id=124
-- 2026-11-05 小波影像分析提升蛋殼數位表型精度，降低育種資料需求：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11150
-- 2026-11-05 FBI-930檔案：https://recreation.forest.gov.tw/Education/Course?id=DYS-A21604
-- 2026-11-05 塑膠布（網）115年薔琵颱風農業天然災害低利貸款地區 - 公告：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9985
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
