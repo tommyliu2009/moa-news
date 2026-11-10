@@ -4,36 +4,36 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-10（每日自動更新）
+- 更新：2026-11-11（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-11 116年度創新研究計畫公開徵求公告：https://www.ardswc.gov.tw/Home/News/proclamation_more?id=9e8ee609bb7f431eb8f89cd04e531b15
+- 2026-11-10 花生好食光｜農事體驗活動：https://ezgo.ardswc.gov.tw/zh-tw/event/5565/
+- 2026-11-10 2026苦瓜好食光｜南州田園體驗趣：https://ezgo.ardswc.gov.tw/zh-tw/event/5564/
+- 2026-11-10 問問薄荷這是怎麼了：https://kmweb.moa.gov.tw/knowledge_view.php?id=20385
+- 2026-11-10 嘉義農業試驗支所：https://scholars.tari.gov.tw/entities/publication/24570c84-f983-4b1f-bf88-bc58ee97c60e
+- 2026-11-10 公告雲林縣臺西鄉及口湖鄉等地區為辦理115年8月下旬豪雨(延遲性災損)農業天然災害現金救助地區(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Announcement_Info&subtheme=&id=613&print=Y
+- 2026-11-10 「漁你攜手．共創雙贏」 12家水產品初級加工場與通路締結合作產地直送搶攻B2B新商機(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2266&print=Y
+- 2026-11-10 企業攜手農友共創果園碳庫 促進農糧產業邁向永續發展：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34470
+- 2026-11-10 新聞最前線> 農業新聞> 企業攜手農友共創果園碳庫促進農糧產業邁向永續發展：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=453&article_id=34470
+- 2026-11-10 【北大武山聯外產業道路崩塌，車輛管制通行】：https://recreation.forest.gov.tw/News/News?id=20261110001
+- 2026-11-10 宣導:行政院公共工程委員會宣導全民督工,全民督工來通報,工程品質好更好：https://taipei.ardswc.gov.tw/News/news_more?id=32f4f539575145a7acd3ab749e36ad67
+- 2026-11-10 新聞與公告> 最新消息> 2027臺北國際烘焙暨設備展米糧烘焙精品館參展廠商遴選辦法：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=379&article_id=34469
+- 2026-11-10 新聞最前線> 最新消息> 轉知有機食農教育種子教師培訓課程資訊：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34467
+- 2026-11-10 動物遭毒蛇咬傷分秒必爭 抗蛇毒血清可依既有機制緊急調度：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21574
+- 2026-11-10 TARI SCHOLARS NETWORK：https://scholars.tari.gov.tw/network/?id=e2684a7c-b8c3-41df-9472-752c6482baf0
+- 2026-11-10 公開資訊-預算與決算(新)-預算：https://www.tari.gov.tw/form/index.asp?Parser=3,7,1447,1386
+- 2026-11-10 BTS演唱會美食地圖出爐！18家高雄綠色友善餐廳及餐盒祭優惠 加碼抽AirPods Max 2等好禮：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=102437
+- 2026-11-10 動物保護藥品管理辦法草案分眾溝通會議（北區野生動物救傷、特殊寵物醫療及動物園場）：https://www.aphia.gov.tw/theme_data.php?theme=picture&id=500
+- 2026-11-10 2026年第14屆亞洲小動物獸醫大會：https://www.aphia.gov.tw/theme_data.php?theme=picture&id=499
 - 2026-11-09 深化漁業勞動權益保障第二期「漁業與人權行動計畫」正式上路(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2275&print=Y
 - 2026-11-09 預告修正「漁船建造許可及漁業證照核發準則」第二十七條、第二十九條、第二十九條之一：https://www.moa.gov.tw/theme_data.php?theme=publication&id=9994
 - 2026-11-09 深化漁業勞動權益保障 第二期「漁業與人權行動計畫」正式上路：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2275
 - 2026-11-09 作物健康管理暨循環農業技術講習-番石榴：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7944
 - 2026-11-09 2026作物機能性應用與產業前瞻發展研討會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7943
 - 2026-11-09 原鄉特有作物種原保存與育苗技術：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7941
-- 2026-11-09 農民學院-優質綠竹筍生產技術班：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7942
-- 2026-11-09 一盆藏天地花果迎賓客 2026台灣花菓盆栽展隆重登場：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=102360
-- 2026-11-09 「旗」躍．「橙」旅 東海岸旗魚季與三仙台臍橙節活動開跑：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102363
-- 2026-11-09 歷年國內有機農糧產品驗證面積統計與發展趨勢：https://kmweb.moa.gov.tw/subject/subject.php?id=66291&print=Y
-- 2026-11-09 【決標】115年度漁業管理資訊系統重新開發案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325400.xml
-- 2026-11-09 【決標】高雄區域外來入侵種動物重點地區移除案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325533.xml
-- 2026-11-09 【決標】右先方小排一之三等5線調度設施強化工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325637.xml
-- 2026-11-09 【決標】「蘭花園區設施升級-蓄水池更新及管線汰換工程」工程採購案第二次契約變更：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325750.xml
-- 2026-11-09 【決標】MaiAgent AI 助理平台功能擴充：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325761.xml
-- 2026-11-09 【決標】116年度資料登錄處理及接種養蟲勞務承攬採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325795.xml
-- 2026-11-09 【決標】115-116年度阿里山林業鐵路沿線危木伐除、修枝及雜草清除及雜草清除開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325875.xml
-- 2026-11-09 【決標】116~117年新竹分署轄國有林治理工程生態檢核：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325901.xml
-- 2026-11-09 【決標】溫室地坪拆除（空地清除）：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325933.xml
-- 2026-11-09 【決標】115年度影音資訊平台功能優化與維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325985.xml
-- 2026-11-09 【決標】地力改良資材一批：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71326007.xml
-- 2026-11-09 【決標】臺東市青海路一段民宅後方野溪整治工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71326205.xml
-- 2026-11-09 【決標】115年農村水保署知識管理及擴散計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71326255.xml
-- 2026-11-09 【公開招標】東勢埔段1285等地號旁野溪整治工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-1-71155664.xml
-- 2026-11-09 【公開招標】116年度合歡山森林遊樂區房務整理及環境清潔維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-1-71155839.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
