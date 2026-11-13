@@ -4,36 +4,36 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-13（每日自動更新）
+- 更新：2026-11-14（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-11-13 2026食之有WAY之尋找天菜 學校午餐與食農教育博覽會精彩開展：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34360
+- 2026-11-13 轉知國立中興大學訂於本(115)年11月19日(星期四)辦理「有機食農教育種子教師培訓課程」。：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=115&article_id=34496
+- 2026-11-13 34款在地佳釀出爐 臺灣農村酒莊閃耀2026台北國際酒展：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34498
+- 2026-11-13 新聞最前線> 最新消息> 農業部辦理「115年度農業移工雇主訓練課 程」，請農業移工雇主踴躍報名參加。：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=17&article_id=34497
+- 2026-11-13 農業青年大使首訪荷蘭 借鏡智慧農業與產業創新：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10349
+- 2026-11-13 解除嘉義縣竹崎鄉編號第1904號水源涵養保安林一部面積4.151400公頃，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10020
+- 2026-11-13 解除臺南市大內區及玉井區編號第2022號土砂捍止保安林一部面積4.529917公頃，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10019
+- 2026-11-13 解除基隆市中正區、仁愛區及信義區編號第2803號土砂捍止保安林部分面積0.009027公頃，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10018
+- 2026-11-13 太平山國家森林遊樂區入口網-最新消息-區內道路交通管制、場域狀態(115.11.13版)：https://tps.forest.gov.tw/TPSWeb/wSite/ct?xItem=7103&ctNode=251&mp=1
+- 2026-11-13 新聞最前線> 最新消息> 宜蘭有機農業攜手BMW蘭陽鎔德跨域合作打造永續共好新模式：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34495
+- 2026-11-13 115年度農業諮詢整合暨循環農業技術講習會-屏東場次：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7949
+- 2026-11-13 農產品初級加工場政策精進座談會-南部場：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7947
+- 2026-11-13 115年度農民學院學員及百大青農回娘家活動：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7953
+- 2026-11-13 2026台北植物園假日主題導覽活動—殼斗科植物：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7956
+- 2026-11-13 設施蔬果栽培數位服務整合應用觀摩會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7955
+- 2026-11-13 農業智動化研發應用研討會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7954
+- 2026-11-13 優化番茄生長勢之栽培技術及擺臂式噴藥車觀摩會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7951
+- 2026-11-13 臺灣國際茶業博覽會週五登場 竹縣「茶里拾光」特色展區邀您入場品好茶：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=102511
+- 2026-11-13 薔琵颱風 土石流及大規模崩塌警戒區預報 第10報：https://hualien.ardswc.gov.tw/News/press_more?id=F6495E794DB146FD9D043CBD2D0658FD
+- 2026-11-13 行政院核定第二期農機中程計畫 4年投入92億打造農機共享新農業：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34361
+- 2026-11-13 爭取行政院支持農機與設施中程計畫 農業部雙軌併進打造智慧韌性新農業：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34382
+- 2026-11-13 推動稻米產業全面升級 農業部攜手返鄉青農開創國產米新價值：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34362
 - 2026-11-12 塞席爾前總統來訪 深化臺塞雙方漁業交流：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2276
 - 2026-11-12 果然好飲！跨界合作共創國產水果新價值：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34488
 - 2026-11-12 新聞最前線> 最新消息> 花蓮雜糧產業加值東豐拾穗食品加工廠開幕：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34487
-- 2026-11-12 引逾2萬日客來台！金山漫遊獲國際ICRT責任旅遊銀獎肯定：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102502
-- 2026-11-12 一粒米的成長故事！雲林縣政府攜手在地農友走進校園 讓食農教育從幼兒扎根：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=102505
-- 2026-11-12 金門今年第4例海漂豬檢出非洲豬瘟病毒核酸陽性 跨部會加強中秋邊境查驗：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21571
-- 2026-11-12 【決標】高屏地區食蛇龜野放追蹤及調查培力計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71329368.xml
-- 2026-11-12 【決標】115-116年度電動油壓水門維護（開口契約）：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71329405.xml
-- 2026-11-12 【決標】農科園區動力中心鋼構除銹塗裝修繕工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71329506.xml
-- 2026-11-12 【決標】溫室基礎設施節能環控系統改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71329535.xml
-- 2026-11-12 【決標】116年度作業基金原料豬肉1批：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71329586.xml
-- 2026-11-12 【決標】向陽營地公廁暨停車場改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71330099.xml
-- 2026-11-12 【決標】嘉義製材所動力室沉浸式影音內容《絕美之島》製作與授權案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=BDM-1-71330161.xml
-- 2026-11-12 【公開招標】Danas-H-01-06-7-楠西區照興里格坑、龜丹里嚴仔頂及仿仔湖農路災害復建工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71160496.xml
-- 2026-11-12 【公開招標】投縣LL006六肩道路改善及坑溝整治工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71160497.xml
-- 2026-11-12 【公開招標】116年度每月不特定日期租車1式：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71160627.xml
-- 2026-11-12 【公開招標】115年全國高風險植物有害生物偵察調查資材採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71160634.xml
-- 2026-11-12 【公開招標】「116年度勞務外包承攬工作」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71160757.xml
-- 2026-11-12 【公開招標】農糧署南區分署臺南地區及高雄地區移動式發電機財物採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71160845.xml
-- 2026-11-12 【公開招標】115年白鐵圍籬安裝(拆除)財物採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71160847.xml
-- 2026-11-12 【公開招標】116年度合歡山森林遊樂區勞務承攬案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71161112.xml
-- 2026-11-12 【公開招標】數位全景顯微掃描系統一套：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71161360.xml
-- 2026-11-12 【公開招標】太平區頭汴坑段3705地號旁及中坑巷91號後方坑溝整治工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71161415.xml
-- 2026-11-12 【公開招標】116年辦公廳環境清潔綠美化勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261112&fn=TIQ-1-71161547.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
