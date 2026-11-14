@@ -4,11 +4,17 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-14（每日自動更新）
+- 更新：2026-11-15（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-14 原鄉好物・安心食尚 原鄉特色農產好物在高雄衛武營熱鬧登場：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34501
+- 2026-11-14 第九屆新入選亮點茶莊發表！邀您一同探索臺灣茶多元魅力：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=16&article_id=34500
+- 2026-11-14 肉桂醛劑型、施用方式及劑量對番茄南方根瘤線蟲結瘤的影響：https://www.tari.gov.tw/publication2/index-2.asp?Parser=99,9,52,,,,3800,,,,,113
+- 2026-11-14 使用MaxEnt 模型預測氣候變遷情境下Kolla paulula 與 Xylella fastidiosa 於臺灣潛在分布：https://www.tari.gov.tw/publication2/index-2.asp?Parser=99,9,52,,,,3802,,,,,113
+- 2026-11-14 九重葛生病了需要用什麼藥治療：https://kmweb.moa.gov.tw/knowledge_view.php?id=20386
+- 2026-11-14 這是什麼菇可以食用嗎：https://kmweb.moa.gov.tw/knowledge_view.php?id=20387
 - 2026-11-13 2026食之有WAY之尋找天菜 學校午餐與食農教育博覽會精彩開展：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34360
 - 2026-11-13 轉知國立中興大學訂於本(115)年11月19日(星期四)辦理「有機食農教育種子教師培訓課程」。：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=115&article_id=34496
 - 2026-11-13 34款在地佳釀出爐 臺灣農村酒莊閃耀2026台北國際酒展：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34498
@@ -28,12 +34,6 @@
 - 2026-11-13 優化番茄生長勢之栽培技術及擺臂式噴藥車觀摩會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7951
 - 2026-11-13 臺灣國際茶業博覽會週五登場 竹縣「茶里拾光」特色展區邀您入場品好茶：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=102511
 - 2026-11-13 薔琵颱風 土石流及大規模崩塌警戒區預報 第10報：https://hualien.ardswc.gov.tw/News/press_more?id=F6495E794DB146FD9D043CBD2D0658FD
-- 2026-11-13 行政院核定第二期農機中程計畫 4年投入92億打造農機共享新農業：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34361
-- 2026-11-13 爭取行政院支持農機與設施中程計畫 農業部雙軌併進打造智慧韌性新農業：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34382
-- 2026-11-13 推動稻米產業全面升級 農業部攜手返鄉青農開創國產米新價值：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34362
-- 2026-11-12 塞席爾前總統來訪 深化臺塞雙方漁業交流：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2276
-- 2026-11-12 果然好飲！跨界合作共創國產水果新價值：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34488
-- 2026-11-12 新聞最前線> 最新消息> 花蓮雜糧產業加值東豐拾穗食品加工廠開幕：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34487
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
