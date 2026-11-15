@@ -4,11 +4,21 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-15（每日自動更新）
+- 更新：2026-11-16（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-15 我的桂花樹是生病了嗎?：https://kmweb.moa.gov.tw/knowledge_view.php?id=20388
+- 2026-11-15 陸海並進全方位保障船員權益打造友善漁業環境(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2272&print=Y
+- 2026-11-15 農糧署115年10月反賄選宣導：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=368&article_id=34340
+- 2026-11-15 最新消息> 銓敘部建置「公務人員退休所得重審後實發金額試算器」，歡迎多加利用。：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=419&article_id=33929
+- 2026-11-15 國產鮮果實外銷檢疫殺蟲處理條件：https://www.afa.gov.tw/cht/index.php?code=list&ids=3703
+- 2026-11-15 113年1月廉政電子報(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=web_structure&subtheme=&id=2555&print=Y
+- 2026-11-15 116年直轄市、縣(市)政府辦理農村再生總體計畫檢討(新訂)補助原則：https://www.ardswc.gov.tw/Home/News/proclamation_more?id=468cfb42636547e3ae7783d9c8496684
+- 2026-11-15 受理檢舉(陳情)資訊：https://www.ardswc.gov.tw/Home/Service/show_detail?id=db7e257986144b2f9eb597ed1d43939c
+- 2026-11-15 【🔴 直播｜「自然碳匯與生物多樣性專案媒合平臺」成果發表記者會暨交流論壇】：https://video.moa.gov.tw/theme_data.php?theme=videos&sub_theme=cvideos&id=8287
+- 2026-11-15 113年1月廉政電子報：https://www.fa.gov.tw/view.php?theme=web_structure&id=2555
 - 2026-11-14 原鄉好物・安心食尚 原鄉特色農產好物在高雄衛武營熱鬧登場：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34501
 - 2026-11-14 第九屆新入選亮點茶莊發表！邀您一同探索臺灣茶多元魅力：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=16&article_id=34500
 - 2026-11-14 肉桂醛劑型、施用方式及劑量對番茄南方根瘤線蟲結瘤的影響：https://www.tari.gov.tw/publication2/index-2.asp?Parser=99,9,52,,,,3800,,,,,113
@@ -24,16 +34,6 @@
 - 2026-11-13 解除臺南市大內區及玉井區編號第2022號土砂捍止保安林一部面積4.529917公頃，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10019
 - 2026-11-13 解除基隆市中正區、仁愛區及信義區編號第2803號土砂捍止保安林部分面積0.009027公頃，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10018
 - 2026-11-13 太平山國家森林遊樂區入口網-最新消息-區內道路交通管制、場域狀態(115.11.13版)：https://tps.forest.gov.tw/TPSWeb/wSite/ct?xItem=7103&ctNode=251&mp=1
-- 2026-11-13 新聞最前線> 最新消息> 宜蘭有機農業攜手BMW蘭陽鎔德跨域合作打造永續共好新模式：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34495
-- 2026-11-13 115年度農業諮詢整合暨循環農業技術講習會-屏東場次：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7949
-- 2026-11-13 農產品初級加工場政策精進座談會-南部場：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7947
-- 2026-11-13 115年度農民學院學員及百大青農回娘家活動：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7953
-- 2026-11-13 2026台北植物園假日主題導覽活動—殼斗科植物：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7956
-- 2026-11-13 設施蔬果栽培數位服務整合應用觀摩會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7955
-- 2026-11-13 農業智動化研發應用研討會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7954
-- 2026-11-13 優化番茄生長勢之栽培技術及擺臂式噴藥車觀摩會：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7951
-- 2026-11-13 臺灣國際茶業博覽會週五登場 竹縣「茶里拾光」特色展區邀您入場品好茶：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=102511
-- 2026-11-13 薔琵颱風 土石流及大規模崩塌警戒區預報 第10報：https://hualien.ardswc.gov.tw/News/press_more?id=F6495E794DB146FD9D043CBD2D0658FD
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
