@@ -4,36 +4,36 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-16（每日自動更新）
+- 更新：2026-11-17（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-15 我的桂花樹是生病了嗎?：https://kmweb.moa.gov.tw/knowledge_view.php?id=20388
-- 2026-11-15 陸海並進全方位保障船員權益打造友善漁業環境(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2272&print=Y
-- 2026-11-15 農糧署115年10月反賄選宣導：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=368&article_id=34340
-- 2026-11-15 最新消息> 銓敘部建置「公務人員退休所得重審後實發金額試算器」，歡迎多加利用。：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=419&article_id=33929
-- 2026-11-15 國產鮮果實外銷檢疫殺蟲處理條件：https://www.afa.gov.tw/cht/index.php?code=list&ids=3703
-- 2026-11-15 113年1月廉政電子報(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=web_structure&subtheme=&id=2555&print=Y
-- 2026-11-15 116年直轄市、縣(市)政府辦理農村再生總體計畫檢討(新訂)補助原則：https://www.ardswc.gov.tw/Home/News/proclamation_more?id=468cfb42636547e3ae7783d9c8496684
-- 2026-11-15 受理檢舉(陳情)資訊：https://www.ardswc.gov.tw/Home/Service/show_detail?id=db7e257986144b2f9eb597ed1d43939c
-- 2026-11-15 【🔴 直播｜「自然碳匯與生物多樣性專案媒合平臺」成果發表記者會暨交流論壇】：https://video.moa.gov.tw/theme_data.php?theme=videos&sub_theme=cvideos&id=8287
-- 2026-11-15 113年1月廉政電子報：https://www.fa.gov.tw/view.php?theme=web_structure&id=2555
-- 2026-11-14 原鄉好物・安心食尚 原鄉特色農產好物在高雄衛武營熱鬧登場：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34501
-- 2026-11-14 第九屆新入選亮點茶莊發表！邀您一同探索臺灣茶多元魅力：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=16&article_id=34500
-- 2026-11-14 肉桂醛劑型、施用方式及劑量對番茄南方根瘤線蟲結瘤的影響：https://www.tari.gov.tw/publication2/index-2.asp?Parser=99,9,52,,,,3800,,,,,113
-- 2026-11-14 使用MaxEnt 模型預測氣候變遷情境下Kolla paulula 與 Xylella fastidiosa 於臺灣潛在分布：https://www.tari.gov.tw/publication2/index-2.asp?Parser=99,9,52,,,,3802,,,,,113
-- 2026-11-14 九重葛生病了需要用什麼藥治療：https://kmweb.moa.gov.tw/knowledge_view.php?id=20386
-- 2026-11-14 這是什麼菇可以食用嗎：https://kmweb.moa.gov.tw/knowledge_view.php?id=20387
-- 2026-11-13 2026食之有WAY之尋找天菜 學校午餐與食農教育博覽會精彩開展：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=113&article_id=34360
-- 2026-11-13 轉知國立中興大學訂於本(115)年11月19日(星期四)辦理「有機食農教育種子教師培訓課程」。：https://nrb.afa.gov.tw/index.php?code=list&flag=detail&ids=115&article_id=34496
-- 2026-11-13 34款在地佳釀出爐 臺灣農村酒莊閃耀2026台北國際酒展：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34498
-- 2026-11-13 新聞最前線> 最新消息> 農業部辦理「115年度農業移工雇主訓練課 程」，請農業移工雇主踴躍報名參加。：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=17&article_id=34497
-- 2026-11-13 農業青年大使首訪荷蘭 借鏡智慧農業與產業創新：https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10349
-- 2026-11-13 解除嘉義縣竹崎鄉編號第1904號水源涵養保安林一部面積4.151400公頃，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10020
-- 2026-11-13 解除臺南市大內區及玉井區編號第2022號土砂捍止保安林一部面積4.529917公頃，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10019
-- 2026-11-13 解除基隆市中正區、仁愛區及信義區編號第2803號土砂捍止保安林部分面積0.009027公頃，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10018
-- 2026-11-13 太平山國家森林遊樂區入口網-最新消息-區內道路交通管制、場域狀態(115.11.13版)：https://tps.forest.gov.tw/TPSWeb/wSite/ct?xItem=7103&ctNode=251&mp=1
+- 2026-11-16 高屏地區洋蔥葉片捲曲病害之病原分離鑑定與藥劑篩選：https://www.tari.gov.tw/publication2/index-2.asp?Parser=99,9,52,,,,3801,,,,,113
+- 2026-11-16 第十二屆「十大嚴選穀得(GOOD)產品」獲獎名單揭曉 12月5日米糧俱樂部展售活動暨頒獎 邀您品味在地好食：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34507
+- 2026-11-16 農糧署115年「補助案件防貪指引」：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=368&article_id=34350
+- 2026-11-16 公告苗栗縣苗栗市等6鄉（鎮、市）為辦理塑膠布溫網室-塑膠布（網）及胡瓜等作物115年薔琵颱風農業天然災害低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10026
+- 2026-11-16 嘉義森林護衛隊，新「森」報到：https://www.forest.gov.tw/news/0079656
+- 2026-11-16 公告劃定「新竹縣關西鎮美里庄休閒農業區」及其範圍，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10024
+- 2026-11-16 解除嘉義縣大埔鄉及番路鄉編號第1907號土砂捍止保安林一部面積2.888026公頃，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10023
+- 2026-11-16 預告訂定「農業部農業試驗所辦理農機性能測定收費標準」：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10022
+- 2026-11-16 116年森林護管員甄試放榜 49名生力軍投入第一線山林守護：https://www.forest.gov.tw/news/0079655
+- 2026-11-16 施肥量對杭菊 (「臺灣杭菊1 號」) 生育與機能性成分之影響：https://www.tari.gov.tw/publication2/index-2.asp?Parser=99,9,52,,,,3790,,,,,113
+- 2026-11-16 農業部林業及自然保育署建置之「人獸共域管理通報平台」已正式上線，敬請多加利用。：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=187&article_id=34503
+- 2026-11-16 冬季旬鮮上桌！漁業署攜手王品旗下三大中餐品牌齊推臺灣好魚：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102517
+- 2026-11-16 訊息專區-最新消息-阿里山林業鐵路114歲生日快樂！系列活動一波接一波：https://afrch.forest.gov.tw/AllNews/0079630
+- 2026-11-16 茂林區黑小米 Setaria italica (L.) P. Beauv.)條播栽培效益研究：https://www.tari.gov.tw/publication2/index-2.asp?Parser=99,9,52,,,,3795,,,,,113
+- 2026-11-16 薔琵颱風 土石流及大規模崩塌警戒區預報 第12報：https://www.ardswc.gov.tw/Home/News/press_more?id=D22CD7116FF94A2EB84B08317ADFE2D2
+- 2026-11-16 反詐宣導-慎防吸金關鍵字：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=368&article_id=34339
+- 2026-11-16 農作物農藥質譜快檢 真Easy：https://video.moa.gov.tw/theme_data.php?theme=videos&sub_theme=cvideos&id=8291
+- 2026-11-16 昭和二年度事業實行計畫書(中央研究所農業部及各支所)：https://scholars.tari.gov.tw/entities/publication/3312eeb6-9f78-4365-b199-04e8465b1324
+- 2026-11-16 【決標】Danas-H-01-06-11-富里鄉農花富009支線農路改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331786.xml
+- 2026-11-16 【決標】115年度觀音工作區各種水路維護工程(第二工區)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71331831.xml
+- 2026-11-16 【決標】116年辦公環境與檢疫設備清潔維護委託服務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71332019.xml
+- 2026-11-16 【公開招標】115年宜蘭分署拖曳式碎木機採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-1-71163538.xml
+- 2026-11-16 【公開招標】知本林道3.5K-6.5K路面及邊坡改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-1-71163738.xml
+- 2026-11-16 【公開招標】116年度嘉義樹木園、埤子頭植物園及環境保護林大樓周邊綠美化及清潔維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-1-71163806.xml
+- 2026-11-16 【公開招標】觀霧國家森林遊樂區供水系統設施改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-1-71163893.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
