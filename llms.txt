@@ -4,17 +4,22 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-21（每日自動更新）
+- 更新：2026-11-22（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-22 請問鳳梨葉變白的原因：https://kmweb.moa.gov.tw/knowledge_view.php?id=20399
 - 2026-11-21 3D多光譜平台提前辨識白菜逆境反應，支援季節適應育種：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11156
 - 2026-11-21 韓國開發新型AI系統，高精度繪製果園數位模型：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11154
 - 2026-11-21 PhenoRob-P自走式機器人建立盆栽作物高通量時序表型：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11159
 - 2026-11-21 手機LiDAR結合AI，非接觸估測乳牛體重與體型表型：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11155
 - 2026-11-21 利用無人機多光譜協助篩選耐旱黃豆：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11158
 - 2026-11-21 AI利用近9,000張田間影像精準辨識番茄病害：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11152
+- 2026-11-21 訊息專區-最新消息-有關網傳影片阿里山林鐵珍貴車廂，廠商修復過程粗魯拆卸ㄧ案，本處說明如下：https://afrch.forest.gov.tw/AllNews/0079690
+- 2026-11-21 大巖桐葉片背面突然出現許多小褐色斑點：https://kmweb.moa.gov.tw/knowledge_view.php?id=20398
+- 2026-11-21 自溫室之興建與規劃談起(二)：https://kmweb.moa.gov.tw/knowledgebase.php?id=18077
+- 2026-11-21 2026桃園仙草嘉年華：https://ezgo.ardswc.gov.tw/zh-tw/event/5573/
 - 2026-11-20 野外挖回的含羞草11月竟在開花，正常嗎？：https://kmweb.moa.gov.tw/knowledge_view.php?id=20397
 - 2026-11-20 冬季旬鮮上桌！漁業署攜手王品旗下三大中餐品牌齊推臺灣好魚(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2278&print=Y
 - 2026-11-20 農作物災害預警平台：https://disaster.tari.gov.tw/ARI/public/about?a=0&at=MzJjQml2VGUrMFZ1Z2k4YjMxRlJ5UT09
@@ -24,16 +29,11 @@
 - 2026-11-20 山海圳山海圳走讀活動開放報名！三條路線帶你內海尋跡、大圳追源：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102613
 - 2026-11-20 林業保育署攜手水、土機關聯合演練 首採HSEEP模式檢驗防災韌性：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102616
 - 2026-11-20 「紫」色旋風席捲神農市集 高餐大、樹德科大秀創意! 150攤小農與咖啡品牌一次網羅：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=activity&id=102614
+- 2026-11-20 2026大園冬日漫遊：https://ezgo.ardswc.gov.tw/zh-tw/event/5574/
+- 2026-11-20 出走南投竹山：遇見夢幻竹林品味筍鮮：https://ezgo.ardswc.gov.tw/zh-tw/tour/1356/
+- 2026-11-20 鳩之澤11/23 14:00–16:00 露天風呂、裸湯、足湯暫停開放：https://recreation.forest.gov.tw/News/News?id=20261120001
 - 2026-11-19 雲林縣銀葉粉蝨密度有上升趨勢，請農友加強防治。雲林縣政府、防檢署及田邊好幫手關心您。-疫情預警：https://phis.aphia.gov.tw/article-1-102-172525
 - 2026-11-19 公告美國馬里蘭州自高病原性家禽流行性感冒非疫區刪除，並自即日生效。：https://www.aphia.gov.tw/office/tcaphia/redirect_link.php?theme=news&filed=link&id=2858
-- 2026-11-19 預告修正「森林法施行細則」第五條之一：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10034
-- 2026-11-19 賞楓最前線：馬那邦的山城滋味：https://ezgo.ardswc.gov.tw/zh-tw/tour/1353/
-- 2026-11-19 漁船見習船員制度正式上路 邀國人加入漁業行列：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102603
-- 2026-11-19 115年度臺中區綠色照顧推廣人員訓練：https://www.moa.gov.tw/theme_data.php?theme=announcement&id=7957
-- 2026-11-19 「南」得好滋味 花蓮原民南瓜市集食農體驗趣：https://erb.afa.gov.tw/index.php?code=list&flag=detail&ids=454&article_id=34515
-- 2026-11-19 農試所建構花粉耐溫性快篩技術助攻作物耐溫度逆境育種與國際市場布局 2026-11-18：https://www.tari.gov.tw/news/index-1.asp?Parser=9,4,26,,,,5676
-- 2026-11-19 東山賞山嵐、楠西採芭樂、玉井買鮮果！ 臺南山線農遊一次滿足：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=activity&id=102604
-- 2026-11-19 農試所建構花粉耐溫性快篩技術 助攻作物耐溫度逆境育種與國際市場布局：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102605
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
