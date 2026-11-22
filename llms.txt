@@ -10,6 +10,7 @@
 
 ## 最新內容
 - 2026-11-22 請問鳳梨葉變白的原因：https://kmweb.moa.gov.tw/knowledge_view.php?id=20399
+- 2026-11-22 節瓜葉子一直變白，用枯草桿菌Y1336噴一段時間了都沒有改善：https://kmweb.moa.gov.tw/knowledge_view.php?id=20400
 - 2026-11-21 3D多光譜平台提前辨識白菜逆境反應，支援季節適應育種：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11156
 - 2026-11-21 韓國開發新型AI系統，高精度繪製果園數位模型：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11154
 - 2026-11-21 PhenoRob-P自走式機器人建立盆栽作物高通量時序表型：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11159
@@ -32,8 +33,7 @@
 - 2026-11-20 2026大園冬日漫遊：https://ezgo.ardswc.gov.tw/zh-tw/event/5574/
 - 2026-11-20 出走南投竹山：遇見夢幻竹林品味筍鮮：https://ezgo.ardswc.gov.tw/zh-tw/tour/1356/
 - 2026-11-20 鳩之澤11/23 14:00–16:00 露天風呂、裸湯、足湯暫停開放：https://recreation.forest.gov.tw/News/News?id=20261120001
-- 2026-11-19 雲林縣銀葉粉蝨密度有上升趨勢，請農友加強防治。雲林縣政府、防檢署及田邊好幫手關心您。-疫情預警：https://phis.aphia.gov.tw/article-1-102-172525
-- 2026-11-19 公告美國馬里蘭州自高病原性家禽流行性感冒非疫區刪除，並自即日生效。：https://www.aphia.gov.tw/office/tcaphia/redirect_link.php?theme=news&filed=link&id=2858
+- 2026-11-20 六龜紅寶石蓮霧上市選擇產銷履歷更安心：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=186&article_id=34525
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
