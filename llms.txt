@@ -4,36 +4,36 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-23（每日自動更新）
+- 更新：2026-11-24（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-22 請問鳳梨葉變白的原因：https://kmweb.moa.gov.tw/knowledge_view.php?id=20399
-- 2026-11-22 節瓜葉子一直變白，用枯草桿菌Y1336噴一段時間了都沒有改善：https://kmweb.moa.gov.tw/knowledge_view.php?id=20400
-- 2026-11-21 3D多光譜平台提前辨識白菜逆境反應，支援季節適應育種：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11156
-- 2026-11-21 韓國開發新型AI系統，高精度繪製果園數位模型：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11154
-- 2026-11-21 PhenoRob-P自走式機器人建立盆栽作物高通量時序表型：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11159
-- 2026-11-21 手機LiDAR結合AI，非接觸估測乳牛體重與體型表型：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11155
-- 2026-11-21 利用無人機多光譜協助篩選耐旱黃豆：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11158
-- 2026-11-21 AI利用近9,000張田間影像精準辨識番茄病害：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11152
-- 2026-11-21 訊息專區-最新消息-有關網傳影片阿里山林鐵珍貴車廂，廠商修復過程粗魯拆卸ㄧ案，本處說明如下：https://afrch.forest.gov.tw/AllNews/0079690
-- 2026-11-21 大巖桐葉片背面突然出現許多小褐色斑點：https://kmweb.moa.gov.tw/knowledge_view.php?id=20398
-- 2026-11-21 自溫室之興建與規劃談起(二)：https://kmweb.moa.gov.tw/knowledgebase.php?id=18077
-- 2026-11-21 2026桃園仙草嘉年華：https://ezgo.ardswc.gov.tw/zh-tw/event/5573/
-- 2026-11-20 野外挖回的含羞草11月竟在開花，正常嗎？：https://kmweb.moa.gov.tw/knowledge_view.php?id=20397
-- 2026-11-20 冬季旬鮮上桌！漁業署攜手王品旗下三大中餐品牌齊推臺灣好魚(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2278&print=Y
-- 2026-11-20 農作物災害預警平台：https://disaster.tari.gov.tw/ARI/public/about?a=0&at=MzJjQml2VGUrMFZ1Z2k4YjMxRlJ5UT09
-- 2026-11-20 漁業署推動海洋碳匯科研交流 持續精進本土量測技術與研究量能：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2280
-- 2026-11-20 林下經濟產品證明標章驗證資材補助作業計畫：https://www.forest.gov.tw/0004548/0079682
-- 2026-11-20 串聯本土保健作物研發與產業加值！產官學專家齊聚，攜手開創機能性作物新契機：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102615
-- 2026-11-20 山海圳山海圳走讀活動開放報名！三條路線帶你內海尋跡、大圳追源：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102613
-- 2026-11-20 林業保育署攜手水、土機關聯合演練 首採HSEEP模式檢驗防災韌性：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102616
-- 2026-11-20 「紫」色旋風席捲神農市集 高餐大、樹德科大秀創意! 150攤小農與咖啡品牌一次網羅：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=activity&id=102614
-- 2026-11-20 2026大園冬日漫遊：https://ezgo.ardswc.gov.tw/zh-tw/event/5574/
-- 2026-11-20 出走南投竹山：遇見夢幻竹林品味筍鮮：https://ezgo.ardswc.gov.tw/zh-tw/tour/1356/
-- 2026-11-20 鳩之澤11/23 14:00–16:00 露天風呂、裸湯、足湯暫停開放：https://recreation.forest.gov.tw/News/News?id=20261120001
-- 2026-11-20 六龜紅寶石蓮霧上市選擇產銷履歷更安心：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=186&article_id=34525
+- 2026-11-23 出走屏東六堆：客家醬香油香一日遊：https://ezgo.ardswc.gov.tw/zh-tw/tour/1355/
+- 2026-11-23 [臺南市]番茄開花結果正當時 臺南場提醒防治粉蝨預防病毒病：https://academy.moa.gov.tw/theme.php?theme=news&id=news_1795427909
+- 2026-11-23 公告屏東縣枋山鄉及恆春鎮為辦理大豆等作物115年薔琵颱風農業天然災害現金救助地區。：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10052
+- 2026-11-23 公告屏東縣枋山鄉及恆春鎮為辦理大豆等作物115年薔琵颱風農業天然災害低利貸款地區。：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10051
+- 2026-11-23 公告臺北市士林區及內湖區為辦理香蕉及塑膠布溫網室-塑膠布（網）115年薔琵颱風農業天然災害低利貸款地區。：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10053
+- 2026-11-23 公告臺東縣臺東市及鹿野鄉為辦理木瓜、香瓜及楊桃等農作物115年薔琵颱風農業天然災害現金救助地區。：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10056
+- 2026-11-23 公私協力推動漁具循環經濟 漁業署攜手漁會與企業啟動示範計畫：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2281
+- 2026-11-23 訊息專區-最新消息-築牢國安與文資防線！林鐵及文資處召開「機敏業務審查會議」落實國家機密維護：https://afrch.forest.gov.tw/AllNews/0079699
+- 2026-11-23 認明「國產蜂蜜雙標章」 送出最在地的甜蜜祝福：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=307&article_id=34527
+- 2026-11-23 大雪山國家森林遊樂區船型山林道3K處黑熊現蹤 自11月22日起至24日封閉 請民眾暫勿前往：https://recreation.forest.gov.tw/News/News?id=20261123002
+- 2026-11-23 公告修正「水土保持服務團績效考核評鑑項目及配分表」(如附件)，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10048
+- 2026-11-23 公告變更「臺南市左鎮區光榮休閒農業區」劃定範圍，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10047
+- 2026-11-23 公告變更「臺南市七股區溪南休閒農業區」劃定範圍，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10045
+- 2026-11-23 公告變更「臺南市楠西區梅嶺休閒農業區」劃定範圍，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10046
+- 2026-11-23 屏東縣鹽埔鄉-方振貴畜牧場：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=quality_farmer&id=99935
+- 2026-11-23 公告「一百十五年度直轄市、縣（市）政府執行社區農村再生績效考評計畫」：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10042
+- 2026-11-23 口蹄疫疫苗開發新方向：免針微針貼片具熱穩定潛力：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11163
+- 2026-11-23 【決標】115-116年軌道機具等5項財物採購：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=BDM-1-71338314.xml
+- 2026-11-23 【決標】棲蘭山區森林作業道林木收穫人才培訓與路網建置計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=BDM-1-71338423.xml
+- 2026-11-23 【決標】115年度幹線站區渠道搶險(修)及清淤維護工程(開口契約)-後續擴充：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=BDM-1-71338687.xml
+- 2026-11-23 【決標】我國農地生態系服務價值評估及研究資料擴充案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=BDM-1-71338920.xml
+- 2026-11-23 【公開招標】知本國家森林遊樂區香氛場域空間暨周邊環境改造工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=TIQ-1-71170331.xml
+- 2026-11-23 【公開招標】中坑溝野溪整治工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=TIQ-1-71171442.xml
+- 2026-11-23 【公開招標】116年內洞、滿月圓、東眼山、拉拉山、觀霧國家森林遊樂區遊客團體傷害保險及公共意外責任：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=TIQ-1-71171467.xml
+- 2026-11-23 【公開招標】蘇澳鎮朝陽里漁港周邊地景營造工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=TIQ-1-71171633.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
