@@ -4,36 +4,36 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-25（每日自動更新）
+- 更新：2026-11-26（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-24 漁業署推動海洋碳匯科研交流持續精進本土量測技術與研究量能(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Press_release&subtheme=&id=2280&print=Y
-- 2026-11-24 2026年「世界抗生素抗藥性認識週」響應活動 「防疫一體、共同行動，即刻預防細菌抗藥」：https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=21594
-- 2026-11-24 「國產好米風味饗宴展」臺中廣三SOGO盛大開展 四大展區與聯名佳餚展現臺灣米魅力：https://www.afa.gov.tw/cht/index.php?code=list&flag=detail&ids=307&article_id=34546
-- 2026-11-24 想請問這是發霉嗎？：https://kmweb.moa.gov.tw/knowledge_view.php?id=20401
-- 2026-11-24 一百十五年度及一百十六年度遠洋漁船配置藥品及器材補助作業要點：https://www.fa.gov.tw/view.php?theme=OceanShippingAct_RULE&subtheme=&id=48
-- 2026-11-24 台灣海域輻射調查相關網站(115/11/22)：https://www.fa.gov.tw/view.php?theme=Radiation_zone&subtheme=&id=778
-- 2026-11-24 公告委託區漁會辦理見習漁船船員手冊相關作業，並自即日生效：https://www.fa.gov.tw/view.php?theme=FisheriesAct_announcement&subtheme=&id=133
-- 2026-11-24 酪農天地156-乳協的產業服務-牛主題館：https://kmweb.moa.gov.tw/subject/subject.php?id=66414
-- 2026-11-24 多代理AI如何協助土壤科學家解析複雜土壤系統：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11164
-- 2026-11-24 【決標】《老家的木頭香》木育繪本出版印刷案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339590.xml
-- 2026-11-24 【決標】116年度諮議委員、水利小組長及協勤人員團體意外保險開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339688.xml
-- 2026-11-24 【決標】115-116年度林政業務管理系統維運計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339860.xml
-- 2026-11-24 【決標】116年度林地、保安林及保育等業務勞務承攬採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71339896.xml
-- 2026-11-24 【決標】阿⾥⼭林業鐵路嘉義⾄⼆萬平段光纖建置⼯程(⼭地段)-第2次契約變更：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71340230.xml
-- 2026-11-24 【決標】「『林下良品』品牌視覺形象及包裝設計提升計畫」委託專業服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71340452.xml
-- 2026-11-24 【公開招標】東部分場116年度茶園管理勞務承攬：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71170932.xml
-- 2026-11-24 【公開招標】116年度環境維護承攬：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71172851.xml
-- 2026-11-24 【公開招標】八斗子漁港突堤碼頭興建工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71172941.xml
-- 2026-11-24 【公開招標】超低溫冷凍櫃17臺：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71172959.xml
-- 2026-11-24 【公開招標】協助申報發證相關業務勞務委外承攬案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71173050.xml
-- 2026-11-24 【公開招標】新竹分署大規模崩塌監視設備更新：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71173570.xml
-- 2026-11-24 【公開招標】香山區茄苳里低碳永續示範場域營造工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71173640.xml
-- 2026-11-24 【公開招標】Danas-H-01-06-7-南化北寮三埔農路災害復建二期工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71173720.xml
-- 2026-11-24 【公開招標】1期孵化室維修：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71173769.xml
-- 2026-11-24 【公開取得報價單或企劃書】屏東辦事處廳舍屋頂防水工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-11-71172663.xml
+- 2026-11-26 請問向日葵的葉片邊緣黑黑的是怎麼了：https://kmweb.moa.gov.tw/knowledge_view.php?id=20402
+- 2026-11-25 國產金柑閃耀冬日 創意運用開啟全臺食尚新風味：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=16&article_id=34548
+- 2026-11-25 蓬萊米陪伴臺灣100年 「蓬萊米百年特展暨市集活動」11/28-29華山盛大登場：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34549
+- 2026-11-25 預告修正「鮪延繩釣漁船赴印度洋作業管理辦法」部分條文：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10060
+- 2026-11-25 公告美國德拉瓦州自高病原性家禽流行性感冒非疫區刪除，並自即日生效。：https://www.aphia.gov.tw/ws.php?id=24281
+- 2026-11-25 古坑精品咖啡再創國際高峰2026年美國《Coffee Review》最新評比奪得CR96亮眼成績強勢入選「2026年全球Top50」第29名：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=quality_farmer&id=102655
+- 2026-11-25 支持林農友善經營 林下經濟添助力！ 林業保育署推動資材補助 每公頃每年最高3萬元：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102653
+- 2026-11-25 臺南農產前進日本水戶橄欖球節 深化城市合作新契機：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102656
+- 2026-11-25 115年漁業署10月份大事紀：https://www.fa.gov.tw/view.php?theme=web_structure&id=2551
+- 2026-11-25 【公開招標】116年度小組水路維護(六甲站)工作(開口契約)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173943.xml
+- 2026-11-25 【公開招標】太平區頭汴坑段3705地號旁及中坑巷91號後方坑溝整治工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174025.xml
+- 2026-11-25 【公開招標】藤枝森林遊樂區樹海步道災害復建工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174299.xml
+- 2026-11-25 【公開招標】116年度花蓮分署轄區林道刈草維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174379.xml
+- 2026-11-25 【公開招標】116年度淡水河紅樹林自然保留區環境維護及廢棄物清運工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174583.xml
+- 2026-11-25 【公開招標】水漾悠徑新設工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174626.xml
+- 2026-11-25 【公開招標】學甲區糖鐵線再利用綠美化改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174759.xml
+- 2026-11-25 【公開招標】溪洲仔1鄰、崁腳尖山溪及鷹山段坑溝整治工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174796.xml
+- 2026-11-25 【公開招標】115年全國高風險植物有害生物偵察調查資材採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174956.xml
+- 2026-11-25 【公開招標】農糧署北區分署桃園國有倉庫1-6號倉冷藏空調主機汰舊換新工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175107.xml
+- 2026-11-25 【公開招標】螢光即時定量PCR系統及全波長超微量分光光度計：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175197.xml
+- 2026-11-25 【公開招標】116年國產材生產專業人才培育委託計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175298.xml
+- 2026-11-25 【公開招標】農糧署中區分署彰化地區移動式發電機2臺財物採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175434.xml
+- 2026-11-25 【公開招標】115年竹崎監工區排水設施及邊坡改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175554.xml
+- 2026-11-25 【公開招標】116年儲存系統維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175639.xml
+- 2026-11-25 【經公開評選或公開徵求之限制性招標】116年度集水區調適治理計畫－台坂溪、碇橋溪及藤橋溪：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-3-71174294.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
