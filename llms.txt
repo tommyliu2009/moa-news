@@ -4,36 +4,36 @@
 
 - 網址：https://web9.subsidyking.tw/
 - 主題：農業部新聞與農業政策
-- 更新：2026-11-26（每日自動更新）
+- 更新：2026-11-28（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-27 兩千種花卉in Life！2026臺灣花卉推介會11月27日至29日在臺北花博公園爭艷登場：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=16&article_id=34559
+- 2026-11-27 公告屏東縣長治鄉、九如鄉及枋寮鄉為辦理香蕉及蓮霧115年薔琵颱風農業天然災害低利貸款地區：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10070
+- 2026-11-27 林下良品多元行銷拓新局 助攻林農收益增4成：https://www.forest.gov.tw/news/0079724
+- 2026-11-27 修正「供獸醫師（佐）治療犬貓及非經濟動物之人用藥物類別品項」部分規定，並自即日生效：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10068
+- 2026-11-27 公開蝴蝶蘭‘展壯黃金戀人’等5件植物品種權申請案如附件一覽表：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10065
+- 2026-11-27 公告即日起受理115年度印度洋大目鮪組及長鰭鮪組漁船申請分配600公噸（全魚重）大目鮪配額：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10064
+- 2026-11-27 臺東青農李俊儀榮獲全國傑出有機農民獎 深耕有機釋迦守護土地：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=quality_farmer&id=102686
+- 2026-11-27 新加坡苗栗月提前布局！星國通路來苗選好物 農產、農遊雙向拓商機：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=102685
+- 2026-11-27 美方公布「結構性產能過剩」301調查報告農業部：我國農產銷美維持競爭優勢蝴蝶蘭等重要產品仍可豁免關稅：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102687
+- 2026-11-27 臺南9.5公噸圓糯米外銷英國 黃偉哲：持續拓展農產國際市場：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102683
+- 2026-11-27 DNA 資訊精準選拔大型洋蔥品種的分子育種技術：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11166
+- 2026-11-27 鳩之澤大眾池自 11 月 27 日（五）起，鳩之澤大眾池停止提供瓶裝礦泉水。：https://tps.forest.gov.tw/TPSWeb/wSite/ct?xItem=7106&ctNode=251&mp=1
 - 2026-11-26 請問向日葵的葉片邊緣黑黑的是怎麼了：https://kmweb.moa.gov.tw/knowledge_view.php?id=20402
+- 2026-11-26 公告新北市貢寮區為辦理魚塭養殖九孔、海膽115年1薔琵颱風農業天然災害現金救助地區。：https://www.fa.gov.tw/view.php?theme=Announcement_Info&subtheme=&id=626
+- 2026-11-26 嘉義農業試驗分所115年度 水稻田間溼穀招標公告(最新消息-農業部農業試驗所)：https://www.tari.gov.tw/sub/news/index-1.asp?Parser=22,38,651,635,,,5679,,,,,,,,,2011/12/28,2026/11/26
+- 2026-11-26 公告資訊-行政公告：https://www.tari.gov.tw/news/index-1.asp?Parser=9,4,750,,,,5680
+- 2026-11-26 預告修正「鮪延繩釣漁船赴印度洋作業管理辦法」部分條文(農業部漁業署)：https://www.fa.gov.tw/view.php?theme=Advancenoticeofdraftregulationsandorders&subtheme=&id=127&print=Y
+- 2026-11-26 助漁民冬季捕烏！水試所每4至7天定期更新「烏魚漁海況速報」：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=variety&id=102664
+- 2026-11-26 肥料經銷商出貨登錄作業手續費請領注意事項：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=187&article_id=34551
+- 2026-11-26 肥料供應商出貨登錄作業手續費請領注意事項：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=187&article_id=34550
+- 2026-11-26 肥料經銷點購肥登錄作業手續費請領注意事項：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=187&article_id=34552
+- 2026-11-26 全球首次確認水稻鉀轉運蛋白OsHAK1具有鉈轉運功能：https://kmweb.moa.gov.tw/theme_data.php?theme=technology_news&id=11165
 - 2026-11-25 國產金柑閃耀冬日 創意運用開啟全臺食尚新風味：https://crb.afa.gov.tw/index.php?code=list&flag=detail&ids=16&article_id=34548
 - 2026-11-25 蓬萊米陪伴臺灣100年 「蓬萊米百年特展暨市集活動」11/28-29華山盛大登場：https://srb.afa.gov.tw/index.php?code=list&flag=detail&ids=185&article_id=34549
 - 2026-11-25 預告修正「鮪延繩釣漁船赴印度洋作業管理辦法」部分條文：https://www.moa.gov.tw/theme_data.php?theme=publication&id=10060
-- 2026-11-25 公告美國德拉瓦州自高病原性家禽流行性感冒非疫區刪除，並自即日生效。：https://www.aphia.gov.tw/ws.php?id=24281
-- 2026-11-25 古坑精品咖啡再創國際高峰2026年美國《Coffee Review》最新評比奪得CR96亮眼成績強勢入選「2026年全球Top50」第29名：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=quality_farmer&id=102655
-- 2026-11-25 支持林農友善經營 林下經濟添助力！ 林業保育署推動資材補助 每公頃每年最高3萬元：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102653
-- 2026-11-25 臺南農產前進日本水戶橄欖球節 深化城市合作新契機：https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=102656
-- 2026-11-25 115年漁業署10月份大事紀：https://www.fa.gov.tw/view.php?theme=web_structure&id=2551
-- 2026-11-25 【公開招標】116年度小組水路維護(六甲站)工作(開口契約)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71173943.xml
-- 2026-11-25 【公開招標】太平區頭汴坑段3705地號旁及中坑巷91號後方坑溝整治工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174025.xml
-- 2026-11-25 【公開招標】藤枝森林遊樂區樹海步道災害復建工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174299.xml
-- 2026-11-25 【公開招標】116年度花蓮分署轄區林道刈草維護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174379.xml
-- 2026-11-25 【公開招標】116年度淡水河紅樹林自然保留區環境維護及廢棄物清運工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174583.xml
-- 2026-11-25 【公開招標】水漾悠徑新設工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174626.xml
-- 2026-11-25 【公開招標】學甲區糖鐵線再利用綠美化改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174759.xml
-- 2026-11-25 【公開招標】溪洲仔1鄰、崁腳尖山溪及鷹山段坑溝整治工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174796.xml
-- 2026-11-25 【公開招標】115年全國高風險植物有害生物偵察調查資材採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71174956.xml
-- 2026-11-25 【公開招標】農糧署北區分署桃園國有倉庫1-6號倉冷藏空調主機汰舊換新工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175107.xml
-- 2026-11-25 【公開招標】螢光即時定量PCR系統及全波長超微量分光光度計：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175197.xml
-- 2026-11-25 【公開招標】116年國產材生產專業人才培育委託計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175298.xml
-- 2026-11-25 【公開招標】農糧署中區分署彰化地區移動式發電機2臺財物採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175434.xml
-- 2026-11-25 【公開招標】115年竹崎監工區排水設施及邊坡改善工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175554.xml
-- 2026-11-25 【公開招標】116年儲存系統維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-1-71175639.xml
-- 2026-11-25 【經公開評選或公開徵求之限制性招標】116年度集水區調適治理計畫－台坂溪、碇橋溪及藤橋溪：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-3-71174294.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
